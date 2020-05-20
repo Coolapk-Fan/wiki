@@ -1,10 +1,77 @@
-<html>
-  <head>
-    <title>经验计算规则</title>
-  </head>
-  
-  <body>
-    <div class="common-userinfo-group" style="display: flex;justify-content: space-between;margin: 0 16px;padding-top: 16px;">
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=" utf-8"="">
+    <title>酷安等级经验规则 - 官方版 来自 阿酷 - 酷安网</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+            <link rel="stylesheet" href="//static.coolapk.com/static/web/v8/css/weui.extra.css?v=19012801">
+    <link rel="stylesheet" href="//static.coolapk.com/static/web/v8/css/homepage.weui.extra.css?v=1903142">
+    <link rel="stylesheet" href="//static.coolapk.com/static/web/v8/weui/1.1.2/weui.min.css">
+        <script src="//static.coolapk.com/static/web/v8/weui/1.1.2/weui.js"></script>
+    <script src="//static.coolapk.com/static/web/v8/jquery/3.2.1/jquery-3.2.1.min.js"></script>
+        <!--  PSWP  -->
+    <link rel="stylesheet prefetch" href="//static.coolapk.com/static/web/v8/css/photoswipe.css">
+    <link rel="stylesheet prefetch" href="//static.coolapk.com/static/web/v8/css/default-skin/default-skin.min.css">
+    <script src="//static.coolapk.com/static/web/v8/js/photoswipe.min.js"></script>
+    <script src="//static.coolapk.com/static/web/v8/js/photoswipe-ui-default.min.js"></script>
+<link type="text/css" rel="stylesheet" href="chrome-extension://bcckoegelfbjgklkkibjkinfnhhjhjom/css/fancybox.css"></head>
+<body data-uid="2050743" data-request-app="Web" data-request-hash="4ec60a79qaly4e" style="margin: 0;;">
+<div id="header">
+    <div class="main">
+        <a href="/">
+            <span id="header-logo" style="display: flex;justify-content: left;align-items: center;"><img style="height: 35px;margin-right: 10px;" src="//static.coolapk.com/static/web/v8/images/header-logo.png" alt=""><span>酷安</span></span>
+        </a>
+        <ul>
+            <li id="navbar-homepage"><a href="/">首页</a></li>
+            <li id="navbar-apk"><a href="/apk/">应用</a></li>
+            <li id="navbar-game"><a href="/game/">游戏</a></li>
+            
+            
+            
+        <li id="search"><input onkeyup=" if(event.keyCode==13) {searchApp()}" id="search-input" type="text" placeholder="搜索应用" style="
+    height: 38px;
+    width: 160px;
+    margin-left: 80%;
+    border: 1px solid #b1b1b1;
+    border-radius: 10px;
+    outline: none;
+    text-indent: 12px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACMUlEQVQ4T62UP2hUQRDGv9kEG21EQRBTRBuJotjYBEQLxT+Ihb2FEfEvSHgzdw8sRJC7neUuIFxhIKIWIjZ2gjamEREFUTEIOcHC2AhaXXW8N7JnEu4uwZeDTLXszv745tudIaxzUBGvXq/vzPN8S7vdbqZp+qcof1VgpVI57Jy7Q0RjRNQys58AxgD8AvDJOZcmSTK3GnwF0Ht/g4imAFwB8FJEvi1dDCHsM7OrAC4S0QVmnumH9gBV9SmAkSzLTv6vvGq1esI59zzLsiNpms52Q5eB3vtrRFQXkQ1FPsXzEMJeM/s8PDy8Y3JycmHpTgfYaDQ2tVqt6IkXkcZagDFHVaPPu5n5bA+wWq0ecs49FJHRtcJiXq1WO5Bl2Wyz2dw6PT3djnsdhYsPcVRETg0CXFTZAnBMRF4vA1X1GRHNM7MMCvTev3fOPWbmejcwENE2Zj43KDCE8MPMborIg2VgCOGMmd0Wkf2DAFV1F4Cmc+5gkiTvuj3cTkQLzrnjSZK8WCtUVS8DKMeOYubo5b9HWTTXAzgtIrHFCqNSqWweGhr6TUSXmPlez7fpgn41syelUulWEVFV3wCYE5GJ7twVvayqrzrSicrM/LYfrKqxl6fM7BERRdiEiNxfVWGX0usA7gL4ElUQ0Xcz2xMnjpltjNMmDgZVPQ9gxsykVCqFHg/7ldRqtZE8z8cBjOd5PkpEHwHM53n+oVwux3UnvPdMRCoinWoLB2yRl/3n6w78Cw+J3xVsoCk9AAAAAElFTkSuQmCC') no-repeat;
+    background-position: 132px;
+    ">
+</li></ul>
+        <a id="header-developer" href="https://developer.coolapk.com/?from=navbar"><span>酷安开发者平台</span></a>
+    </div>
+</div>
+<script>
+    var pathname = window.location.pathname;
+    if (pathname.indexOf('/apk/com.coolapk.market') == 0) {
+        document.getElementById('navbar-market').classList.add('header-active');
+    } else if (pathname.indexOf('/apk') == 0) {
+            document.getElementById('navbar-apk').classList.add('header-active');
+    } else if (pathname.indexOf('/game') == 0) {
+        document.getElementById('navbar-game').classList.add('header-active');
+    } else if (pathname.indexOf('/about/contact') == 0) {
+        document.getElementById('navbar-contact').classList.add('header-active');
+    } else if (pathname.indexOf('/about/about') == 0) {
+        document.getElementById('navbar-about').classList.add('header-active');
+    } else if (pathname.indexOf('/feed') == 0) {
+
+    } else {
+        document.getElementById('navbar-homepage').classList.add('header-active');
+    }
+</script>
+
+<div id="feed-main">
+    <div class="content">
+        
+        <div id="feed-detail" style="margin-top: 20px;">
+                        <div class="message-cover">
+    <img src="http://image.coolapk.com/feed/2020/0421/09/10002_f2b0399e_2646_8265@1063x478.jpeg" alt="" style="width: 100%;">
+</div>
+<div class="message-title" style="margin: 0 16px;padding-top: 16px;">
+    <p style="font-size: 20px;color: #333333;font-weight: bold;">酷安等级经验规则 - 官方版</p>
+</div>
+<div class="common-userinfo-group" style="display: flex;justify-content: space-between;margin: 0 16px;padding-top: 16px;">
     <div class="userinfo-item" style="display: flex;flex-direction: row;width: 100%;">
         <div class="avatar-item" style="height: 32px;width: 32px;">
             <img src="http://avatar.coolapk.com/data/000/01/00/02_avatar_middle.jpg?1586016494" alt="" style="width: 100%;height: 100%;border-radius: 50%;margin-top: 4px;">
@@ -18,7 +85,8 @@
         <a href="javascript:;" onclick="toApp()">关注</a>
     </div>
 </div>
-    <div class="feed-article-message" style="margin: 16px;">
+
+<div class="feed-article-message" style="margin: 16px;">
                         <p style="font-size: 16px;color: #212121;margin: 10px 0;"><a class="feed-link-tag" href="/t/酷安?type=12">#酷安#</a> 在等级条发布之后，有酷友很关心这个等级经验规则，我这里大概说一下主要的操作规则吧。<br>
 <br>
 酷安的等级规则分为三个部分：主动动作、被动动作和扣分项。<br>
@@ -53,5 +121,225 @@
 <br>
 以上就是酷安的主要等级经验规则。酷安搞这个等级经验的主要目的是为了发现好内容。可以看到，其实最主要的经验得分是来自于被动动作。 所以要多发好内容，才能快速有效的提升等级。</p>
             </div>
-  </body>
-</html>
+<script>
+    var options = {
+        fullscreenEl: false,
+        pinchToClose: true,
+        tapToClose: true,
+        showHideOpacity:true,
+        getThumbBoundsFn:false,
+        shareButtons: [
+            {id:'download', label:'保存原图', url:'{{raw_image_url}}', download:true}
+        ],
+        index: 0
+    };
+    function getImageWidthAndHeight(imgElement) {
+        var image = new Image();
+        image.src = imgElement.src;
+        var object = {};
+        object.width = image.width;
+        object.height = image.height;
+        return object;
+    }
+    var innerWidth = window.innerWidth;
+    if (innerWidth > 1000) {
+        innerWidth = 600;
+    }
+    var messageImageItemArr = document.getElementsByClassName('message-image-item');
+    var messageImageArr = document.getElementsByClassName('message-image');
+    window.addEventListener("load", function (ev) {
+        if (messageImageItemArr.length > 0) {
+            Array.prototype.forEach.call(messageImageItemArr, function (element, i) {
+                messageImageArr[i].addEventListener('click', function (ev1) {
+                    var pswpElement = document.getElementsByClassName('pswp')[0];
+                    var items = [];
+                    for (var $i=0;$i<messageImageArr.length;$i++) {
+                        var $object = {
+                            src: messageImageArr[$i].src,
+                            w: getImageWidthAndHeight(messageImageArr[$i]).width,
+                            h: getImageWidthAndHeight(messageImageArr[$i]).height
+                        };
+                        items.push($object)
+                    }
+                    options.index = i;
+                    var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+                    gallery.init();
+                });
+            });
+            for(var i=0;i<messageImageItemArr.length;i++) {
+                // 多图情况下宽高比为1/1
+                messageImageArr[i].style.maxWidth = innerWidth - 32 + 'px';
+            }
+        }
+    });
+</script>
+<div class="feed-status" style="display: flex;justify-content: space-around;padding: 10px 0;border-top: 1px solid #F5F5F5;margin-top: 10px;border-bottom: 8px solid #F5F5F5;">
+    <div class="feed-like"><a style="padding-left: 20px;background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkQzNzU2MDFFOTJERDExRThCMkFBRjczOTIyMDQ0REExIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkQzNzU2MDFGOTJERDExRThCMkFBRjczOTIyMDQ0REExIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDM3NTYwMUM5MkREMTFFOEIyQUFGNzM5MjIwNDREQTEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RDM3NTYwMUQ5MkREMTFFOEIyQUFGNzM5MjIwNDREQTEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4zNPnzAAAC9ElEQVR42uyaTWgTQRTHt6XWWpQqilBFBdE2lR5qLxZPOSkqIqgXtRdFqApiBYmF0h68uR705AeCWqjWix5UUDyIBwUP4geCbVS8tGoFET9ail+N/zEvOLzMJptkZzJT+uDHZF6GbP47M2/ezG5FKpXypoJVTAshSyQSKncr6AcxMAqegRvgMvgepQDf9/+VlTpuDugDTfS5HmwAZ8BbsFtHj+gQsg40B3y3AFwAp0mk1UK6QrTZD7ptFrIaxJnvI/ilaNsLVtgq5LDCtwcsBw+Yfwb1jHVCloIdzPcS3AYjNOFH2PfrbRRyEFQx3ymQie9j4Br73rqhNQfsZb4PtJbINsrqM20T0gHmMp8IsROmVvYohFTRsJJNCDhrMkWJQsg2muiyXQSfXBNylNUnwUnTSWNJQpAwxmkRlO0meOOUkIAF8EQ50vjKEnpjFYrNzP0IPCzwp1IF8J6i4bIoe6RTkcHqnhv1lNY8BWtKFoLeWIiinbnFXuO6oZE0j65VV2qP9IBZinTkt8FpsQgckhczfrerUeyjBFBskGaH+NEvtHbkMzGHjhfxp7+BGnCE3cDt4FiWEIhYjOIWaCnwQlcpKcxn94libT44INUbsoYW9UQxIjI9YsImWf2Pao50FCnCpDUoAkzWHNmpiO8DYDhEWmLKGlk9qRLSyhpd8X2/PSD8lkNIrSI5TaqGVjVrNGzhsOIL8KDO4yBd1qTwJV0U0jhVhbyjhdL5oZXUcfhgYruxkvmGXBSyhMKv80JyRiyXhKgilpM9EmP1cb5guyrklff/TNnpoTUU5eGDKaujQwfnhcTyRSxXhKgi1mAuIT8Vi5ANtkWxvX3NG8kbqyegTd4x0ssAL0JcrE3DrlE8Y1zrpR/ZyfbYUzx3kYUMMCFiE7Mr5EXjXvbTXF12PigZy9g58Nzy+XIPXMopBPvzHyg2een3Rmy0O2CrJx0BBUYtiBGbFXE43EljcbzMf/4zuOulT3g2gq9BDadfc7LN/gowAKLJoYR52iBjAAAAAElFTkSuQmCC);-webkit-background-size: contain;background-size: contain;background-repeat: no-repeat;color: #757575;">6281</a></div>
+    <div class="feed-reply">
+        <a style="padding-left: 20px;background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkQzNzU2MDFBOTJERDExRThCMkFBRjczOTIyMDQ0REExIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkQzNzU2MDFCOTJERDExRThCMkFBRjczOTIyMDQ0REExIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUQwNkYwRkY5MkQ0MTFFOEIyQUFGNzM5MjIwNDREQTEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUQwNkYxMDA5MkQ0MTFFOEIyQUFGNzM5MjIwNDREQTEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7+jBbFAAAEcElEQVR42uxaWUiVQRS+LpmZhYHaooS5JEUFRWBZJoRlSRGRD61EUIKWPZRp0WNEdFuopCStJ9se6qVCwhYwi3qqKGkvsgXbINsXDftOHmMcz/97/RevVzrwMffOzD//fHNmzpwz8we1tLR4eoME/SfCUlxc3PYzCpjGGAcMB2KB/lz+FXgLPAduA7VADdBo5/1er/dvGmqTRF8kucBSYAYQYlI9DBgEpHLd9cBv4AJQCZwEflrtS6hFAv2Q5APrgDgbY0HEsxk0tLuAMuB7VxsKtkBiNpI7/NI4B6f5MG6T2p7tmkZAIBzJbtaEmdCiewTcBV4BXzg/komPBlJofRo8nwRUsWZI4z8cIwISg5GcBSYaVGkCqoGjPOffddJkDJAFLOZp1UeoQwOWBuQAb2xPLZBIRHLFgEQzcAAYCcwBjvtAwsN1qO5cfnY/t6XLBH73CFtEQCIeyUUgWSi+DowHVgPPbKwNenYNt3VNKKd3XwLiLREBiQgkp4EEyXwDGbDhdQ4u9jreg7xCWQL3JcLKGtnDo6QK2f0CECh3aYOm6VUCPOEpq+5L1Je9wCqfNQJt5Bg8UOgiCVXoHYVC/kpe/J0TYTO7T6i7EyTKutF9KuN9RZdSINwXjeSzLVeFFuEmP/iCG9moqJIo7WXBgu9UJOwRedBGsx+INPMUb9LyN+ha0TWSy66CKocctk5WrFmFljcUWGBmtZYJI+IV1tFW1lyYw53+RWsR2CyY+zytv8vYk2ivEXQuit0GVc5BG9JmV+ICiTZXv0jIr6e+aHlZHAN1mFqZQjxxzMT9dkuMBui40IdMichUwYs9b9DoUxeJPDbIr+Y+qZIhrZFRWqUHmFbvDRqdBSxUwlinhMLhEwZl1JeHHGF26LNKJEUnYhInU7yxRYvZu0Pua0SSpak1RHvoZQ88LHmh/Y+WiAzUKn3ugUT0PkVajtn9LJ+MLFywSaUBgcRQJfJaK4sPJCKq1XrE8XObpJpEj3ZdFCNXxBGN3NfKUtHhaIPn7LooRq6II0RqtbIgwfdy0kUJc4tIDcfkqixx0UV57MoawW7diKlEh2vZqiuCvATBA7bropi5IrYXO0mlRoTKyQcp6CEuik9Ti+QU0KCfXKCzYwJpH6GRpgPjHVodOpctB5nQgCGiHMPoi3kysC2giLBWpMOxImglP5A0QmTofuKwUFQKMnkBQ4RlLXBL2AgPgsx2P62ZGMHVMScCrXzztN5f1EvuFnDZD9Ys3Sj4M41HQIYqTjfYyckA3PS0XtIkdAMJOryepOVd9TmwAhkiMQW4YbChFvChwBlgkaB+p0hIR1NH/jmGvn4wwKf0dD/R2WJXL0NJo3QZavWjgFgexDShjA630zHQLV0iohCi0aFrhyQ/GqmPPLXvtX350OWYnU3zWE/rlwsNfjqAmEck2sUcdr5FUT7hWM5GIcRlEjSdVqhBoGWNaNqhb0foRHwmL/L5HMJW8cs+eDrebXTV3ad2KtgrTxciWfsa6UnSa4j8EWAARdQwvUmpZI8AAAAASUVORK5CYII=);-webkit-background-size: contain;background-size: contain;background-repeat: no-repeat;color: #757575;">4697</a>
+    </div>
+    <div class="feed-favorite">
+        <a style="padding-left: 20px;background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkZFNzY0RkQxOTJERTExRThCMkFBRjczOTIyMDQ0REExIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkZFNzY0RkQyOTJERTExRThCMkFBRjczOTIyMDQ0REExIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDM3NTYwMjQ5MkREMTFFOEIyQUFGNzM5MjIwNDREQTEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RkU3NjRGRDA5MkRFMTFFOEIyQUFGNzM5MjIwNDREQTEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6oYCMmAAAEy0lEQVR42uyaaWhUVxTHJ0YjtuKGC7Qa1FC1bhMtBXfc0NIat1Ip7ri0LrW0onH5oCgoGoIbxtpSiYpoq+gHUfxQnX6IG7glxi0udcFojURrFSNu8X/wP/C8nvfmvZk3yUQ88GNm7r3vzv2/d5dzzkxSeXl54F2waoF3xKrH2kFmZqZd1YdgORjLz5ulOXjsp4CsrCx/hDjYVjDY8nk6aAqGVqWp1c8QEbYhoHdVEjLXoW5eVRHyOejvUD8AdK4KQub61KZShbRRFnMhOGOUfQ1aJbKQOUqfy4n5vZmJKiQVjDTK/gF/gj/AVaNuDLfjhBMyE6QYZdngOck26lJ4TUIJaQgmG2W3wUbL51xwx2gzmdcmjJAfwQdG2SpQZvlcxjKr1QY/JIoQGcwMo+w/sF5pu551VpvBPirWaYSTKHO7PUgnPUA9o1kO+F+5XET8YpzuDUAeOAwKSKFX57J6hEHXwUuQA5bTuBNoC2o4XCZTaLVDvdT9BGpZysI3JWwvwBWQD05RmLwvdiUEA69Pt7sHB90SJHl8aL+Duw71d7jwpzm0SeaBKYywlJdS0CHwK7gVrkgKR4gQkcrH+3EMU1W22TRwI0K75uBSjGHEPdAN8UiR+USyoxDxDJyzTIHDLkSIXQM9QRfQgdOqvXIOOZmsrWVgmCnkywgXPgKnOeCTHLz4UE+jvKNHSdhk3bWmqKBlbTZy6KOvtkaeKw3PgsUc9GU8xpceQt1AFE/3DNliKf8IdOSMaadM5beE7Kb/YzXZoZpBwPZKzCvIgv5OESG2UzsQZ9HJs5rsWNm46/MqUcgSsFApl/Nm9ltCcNdL8NILFCkXLYWYRZUgQtz/+Ur5KeYFHqguCsQUMzlwTrl4AcQsqyABMhNW2MQsxymi1NHXgph/KSZfC5wgZiVIirOINeBnm51O8gH3XTmNEHOXqk8o1eJe5MRJjPS5zsYjltN8oHU6vXGhU+4Xg62Ll32gq1K9AXxPv8gvT1zcjklKXR7PuUfKTY/sxqPRA96FPKV6IgOnZB9EJPPGaCL+Bl9oIjzFIxDzkB0dUKpHg+E+CJGs5Hil/C8wyI1L7yqwghjpKAOElOqLPgi5rJSFKPCx23kZcCmmjC6L5jTGahfYl9Wk3yfxCnWDii/2zCc/67xR1iEuMTu3W1PIaR+33oIKEcJgqG6EL4/FCpV4IzUeQoJKWX4chXh6KrEKifRE+oCDpI/HqVVhQoqxk5XatO0G9nML7U5CPBe62FxzW0laBOMhJN3FtPoM7KFf1E+pF4fvCIO4oIvp1dFXIcxvNXcQIlNgFzgGvnLRZQZjCok82zgIkXRQTT+fSFDJbxVAoCQLtlHUMI85MGn7DWP0TaCF8pQlFP/UbyGmTeEgvnXo5wR9pQyHHU4cxrE83ce4/O6ohaTbpGLsEmwiUH5ekx9G93LdSMp1hHKChy3Fmt7xunO5FdLYZTtxIEfxLsqasQY78n4HBzZOSXTYWRM/hRRFqL8GJjBlI/94eOnQVgKxzZz7Mj1vxvjdnoSstQkxZRBTA68zhLkBPclnZ08ZEbZifF6itJFz5TffhODgu875G2Lgf4Gx+yeB1z/eRJs2FQv/kpXG1M8VxiAHmAQpcbUFvv+/VoLZKwEGAHB5LvuxZIjfAAAAAElFTkSuQmCC);-webkit-background-size: contain;background-size: contain;background-repeat: no-repeat;color: #757575;">2538</a>
+    </div>
+</div>
+                        <div class="feed-hot-reply">
+        <div class="hot-reply-footer" style="border-top: 1px solid #F5F5F5;padding: 15px;">
+        
+    </div>
+    </div>
+
+            <!-- PSWP -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        
+        
+    </div>
+    
+<div class="to-top" style="cursor: pointer; position: fixed; right: 40px; bottom: 40px; display: none;"></div></div>
+<script>
+    $(function () {
+        var device = navigator.userAgent.toLowerCase();
+        if (device.indexOf('android') > 0 && device.indexOf('chrome') > 0 && device.indexOf('micromessenger') <= 0 && device.indexOf('mqqbrowser') <= 0 && device.indexOf('status') <= 0) {
+            $('.app-open').removeAttr('onclick');
+            $('.app-open').attr('href', 'intent://www.coolapk.com/feed/18221454#Intent;scheme=coolmarket;package=com.coolapk.market;end');
+        }
+        if (device.indexOf('iphone') > 0 || device.indexOf('ipad') > 0) {
+            $('.app-open').css('display', 'none');
+        }
+    });
+    toApp=function (){//封装个跳转app的方法
+        var device = navigator.userAgent.toLowerCase();
+        var config = {
+            //scheme:必须要有，与app里的配置scheme一致
+            scheme_IOS: 'https://www.coolapk.com/qr/download?type=ios',
+            scheme_Adr: 'coolmarket://feed/18221454',
+            timeout: 1000
+        };
+
+        if (device.indexOf('micromessenger') > 0 || (device.indexOf('mqqbrowser') > 0 && device.indexOf('status') > 0)) {
+            if (device.indexOf('iphone') > 0 || device.indexOf('ipad') > 0) {
+                window.location.href = 'https://www.coolapk.com/qr/download';
+            } else {
+                window.location.href = 'https://www.coolapk.com/qr/weixin?redirectUrl=' + encodeURIComponent(window.location.href);
+            }
+        }
+
+        function openApp() {
+            var startTime = Date.now();
+            var ifr = document.createElement('iframe');
+            ifr.src = device.indexOf('android') > 0 ? config.scheme_Adr : config.scheme_IOS;
+            ifr.style.display = 'none';
+            document.body.appendChild(ifr);
+            var time = setTimeout(function() {
+                document.body.removeChild(ifr);
+                var endTime = Date.now();
+                if ((!startTime || endTime - startTime < 2040) && device.indexOf('micromessenger') <= 0) {
+                    showDialog('dialog1');
+                }
+            }, 1000);
+
+            window.onblur = function() {
+                clearTimeout(time);//清楚定时器
+            }
+        }
+        openApp();
+    };
+
+    function weixinDownload() {
+        var device = navigator.userAgent.toLowerCase();
+        if (device.indexOf('micromessenger') > 0) {
+            if (device.indexOf('iphone') > 0 || device.indexOf('ipad') > 0) {
+                window.location.href = 'https://www.coolapk.com/qr/download';
+            } else {
+                // window.location.href = 'https://www.coolapk.com/qr/weixin?redirectUrl=' + encodeURIComponent('https://www.coolapk.com/apk/com.coolapk.market?from=navbar');
+                window.location.href = 'https://a.app.qq.com/o/simple.jsp?pkgname=com.coolapk.market';
+            }
+        } else {
+            window.location.href = '/qr/download';
+        }
+    }
+
+    function weixin() {
+        document.getElementById('weixin_qrcode').style.display = 'block';
+    }
+    function leaveWeixin() {
+        document.getElementById('weixin_qrcode').style.display = 'none';
+    }
+</script>
+<div id="dialog">
+    <div class="js_dialog" id="dialog1" style="opacity: 0; display: none;">
+        <div class="weui-mask"></div>
+        <div class="weui-dialog weui-skin_android">
+            <div class="weui-dialog__bd">
+                更多功能，丰富内容，尽在酷安APP
+            </div>
+            <div class="weui-dialog__ft">
+                <a href="javascript:;" class="weui-dialog__btn weui-dialog__btn_default" onclick="hideDialog('dialog1')">取消</a>
+                <a href="/qr/download" class="weui-dialog__btn weui-dialog__btn_primary" onclick="hideDialog('dialog1')">下载APP</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function hideDialog(id) {
+        var $andirodDialog = document.getElementById(id);
+        $andirodDialog.style.opacity = 0;
+        $andirodDialog.style.display = 'none';
+    }
+    function showDialog(id) {
+        var $andirodDialog = document.getElementById(id);
+        $andirodDialog.style.opacity = 1;
+        $andirodDialog.style.display = 'block';
+    }
+</script>
+<script type="text/javascript">
+// stat script 1
+</script>
+
+<div style="display:none">
+<!-- stat script 2 -->
+</div>
+
+
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F7132d8577cc4aa4ae4ee939cd42eb02b' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" https://hm.baidu.com/h.js?7132d8577cc4aa4ae4ee939cd42eb02b" type="text/javascript"></script>
+
+
+</body></html>
