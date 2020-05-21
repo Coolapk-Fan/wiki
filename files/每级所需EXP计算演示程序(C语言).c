@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-for ( int exp , lv = 0 ; lv < 100 ; lv++ , exp=1000*(lv>1)*(lv-1)*(lv-1)*(lv-1)+(lv<2)*lv*300 , printf("Lv%d \t 所需经验值： %d\n", lv , exp));
-return 0;
+    for ( int i = 0 ; i < 100 ; i++ , printf("Lv%d \t 所需经验值： %d\n", i , 1000*(i>1)*(i-1)*(i-1)*(i-1)+(i<2)*i*300 ));
+    return 0;
 }
