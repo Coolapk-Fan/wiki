@@ -9,4 +9,5 @@ $ git clone https://github.com/Coolapk-Fan/wiki.wiki.git
 ```
 
 # 同名站点
-https://coolapk.fandom.com/zh/wiki/%E9%85%B7%E5%AE%89_Wiki（Wiki语法）
+一个位于Fandom的站点：<br>
+https://coolapk.fandom.com/zh/wiki/%E9%85%B7%E5%AE%89_Wiki （Wiki语法）
