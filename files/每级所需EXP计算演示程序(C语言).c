@@ -13,7 +13,7 @@ int main()
                 }else{
                         exp = start - 300 * (lv-1);
                 }
-                printf("Lv%d\t 起始经验值： %d\t"， lv,start);  
+                printf("Lv%d\t 起始经验值： %d\t", lv, start);  
                 printf("从Lv%d\t 升级至 Lv%d\t 所需经验值： %d\n", lv-1, lv, exp);
         }
         return 0;                                                                                                                                                    
