@@ -1,4 +1,4 @@
-#include <stdio.h>
+extern int printf (const char *__restrict __format, ...); 
 int main()
 {
     for ( int i = 1 , start , exp ; i < 100 ; i++ )
