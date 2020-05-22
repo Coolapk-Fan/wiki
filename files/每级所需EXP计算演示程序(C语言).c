@@ -1,4 +1,4 @@
-#include <stdio.h>                                                                                                                                                   
+#include <stdio.h>
 int main()
 {
     for ( int i = 1 , start , exp ; i < 100 ; i++ )
