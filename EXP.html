@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport"content="width=device-width,initial-scale=1.0">
+		<link rel="icon" href="https://static.coolapk.com/emoticons/v9/coolapk_emotion_64_shounuehuaji.png">
+		<title>不怎么准的酷安等级计算器</title>
+	</head>
+	<body onload="C()">
+		<script>
+			document.write("当前经验:<input type=\"text\"id=\"e\"maxlength=\"7\"onkeyup=\"C()\"value=\""+location.search.slice(location.search.indexOf("e")+2,location.search.indexOf("l")-1)+"\"autofocus><br>目标等级:<input type=\"text\"id=\"n\"maxlength=\"2\"onkeyup=\"C()\"value=\""+location.search.substr(location.search.indexOf("l")+2)+"\"placeholder=\"留空默认下一级\">");
+		</script>
+		<h3><p id="d"></p></h3><br>
+		<h2>（计算结果仅供参考）</h2><br>
+		<h1>为避免酷安限制，域名可能会更换为 coolapkwiki.js.org</h1>
+		<script>
+			function p(x){return x**3*1000;}
+			function C(){
+				var d=l=0,c=['D9D9D9','90DFFD','42B9FD','0F7ED0','4CB04D','FEC106','FD9800','FE5720','EA1E63','9A28B1'];
+				w=document.getElementById("e").value;
+				q=document.getElementById("n").value;
+				if(w>299)for(;p(l)<=w;l++);
+				n=!q*l+!!q*(q-1);
+				z=p(n)+(n<0)*1000+!n*300-w;
+				e=(l>0)*p(l)+(l<1)*300-w;
+				t=m=((l<1)+l+(l>5)*(l-5))*100+10;
+				if(l<++n){
+					for(i=n;i>l;i--){
+						d+=e/t;
+						e=(i>1)*p(i-1)-p(i-2)*(i>2)+300*(i*(i<2)-(i-1)*(i<3));
+						t=((i<2)+(i-1)+(i>5)*(i-6))*100+10;
+					}
+					d=parseInt(d)+(e%t>0);
+					u='升';}else u='降';
+				document.getElementById("d").innerHTML="当前等级为：<i><font color=#"+c[(l>9)*9+(l<10)*(l-(l>0))]+">Lv."+l+"</font></i><br>"+u+"级至<i><font color=#"+c[(n>9)*9+(n<10)*(n-(n>0))]+">Lv."+n+"</font></i>需"+z+"EXP<br>当前每日上限为"+m+"EXP<br>"+u+"级理论最快需"+d+"天，即到达"+new Date(new Date().getTime()+(d-(d>0))*86400000).toLocaleDateString()+"<br><a href="+location.pathname+"?e="+w+"&l="+q+">分享链接(移动端长按复制带参数链接，需浏览器支持)</a>";}
+		</script>
+	</body>
+</html>
