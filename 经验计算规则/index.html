@@ -75,7 +75,8 @@
 <li>受<a href="http://image.coolapk.com/feed/2020/0421/09/10002_bc04628c_2646_8269@952x672.jpeg.m.jpg" target="_blank" rel="noopener">“无单独上限”项目</a>和<a href="http://image.coolapk.com/feed/2020/0421/09/10002_a8434188_2646_8271@954x402.jpeg.m.jpg" target="_blank" rel="noopener">各种扣分机制</a>影响，每日上限会存在一定程度浮动</li>
 </ol>
 <h2 id="计算当前升级最短时间（C语言）"><a href="#计算当前升级最短时间（C语言）" class="headerlink" title="计算当前升级最短时间（C语言）"></a>计算当前升级最短时间（C语言）</h2><ul>
-<li>在线计算 <a href="https://coolapkwiki.js.org/EXP.html">https://coolapkwiki.js.org/EXP.html</a>  <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> e, m, d, l = <span class="number">0</span>;</span><br><span class="line">	</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">"请输入当前EXP："</span>);</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;e);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">if</span> (e&gt;<span class="number">299</span>) <span class="keyword">for</span> (; l*l*l &lt;= e/<span class="number">1000</span>; l++);</span><br><span class="line">	e = (l&lt;<span class="number">1</span>)*<span class="number">300</span>+<span class="number">1000</span>*l*l*l - e;</span><br><span class="line">	m = ((l&lt;<span class="number">1</span>)+(l&gt;<span class="number">5</span>)*(l<span class="number">-5</span>)+l)*<span class="number">100</span>+<span class="number">10</span>;</span><br><span class="line">	d = e / m + (e % m &gt; <span class="number">0</span>);</span><br><span class="line">	<span class="keyword">if</span> (e&lt;m) m=(l+(l&gt;<span class="number">4</span>)*(l<span class="number">-4</span>))*<span class="number">100</span>+<span class="number">110</span>;</span><br><span class="line"></span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">"\</span></span><br><span class="line"><span class="string">			您当前等级为：Lv%d\n\</span></span><br><span class="line"><span class="string">			升级至下一级需%dEXP\n\</span></span><br><span class="line"><span class="string">			每日上限为%dEXP\n\</span></span><br><span class="line"><span class="string">			升级最快所需%d天"</span>, l, e, m, d);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>在线计算 <a href="https://coolapkwiki.js.org/EXP.html">https://coolapkwiki.js.org/EXP.html</a>  <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> e, m, d, l = <span class="number">0</span>;</span><br><span class="line">	</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">"请输入当前EXP："</span>);</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">"%d"</span>, &amp;e);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">if</span> (e&gt;<span class="number">299</span>) <span class="keyword">for</span> (; l*l*l &lt;= e/<span class="number">1000</span>; l++);</span><br><span class="line">	e = !l*<span class="number">300</span>+<span class="number">1000</span>*l*l*l - e;</span><br><span class="line">	m = (!l+(l&gt;<span class="number">5</span>)*(l<span class="number">-5</span>)+l)*<span class="number">100</span>+<span class="number">10</span>;</span><br><span class="line">	d = e / m + (e % m &gt; <span class="number">0</span>);</span><br><span class="line">	<span class="keyword">if</span> (e&lt;m) m=(l+(l&gt;<span class="number">4</span>)*(l<span class="number">-4</span>))*<span class="number">100</span>+<span class="number">110</span>;</span><br><span class="line"></span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">"\</span></span><br><span class="line"><span class="string">			您当前等级为：Lv%d\n\</span></span><br><span class="line"><span class="string">			升级至下一级需%dEXP\n\</span></span><br><span class="line"><span class="string">			每日上限为%dEXP\n\</span></span><br><span class="line"><span class="string">			升级最快所需%d天"</span>, l, e, m, d);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
 </ul>
 	  
 
@@ -91,34 +92,6 @@
 	
 		
 			
-		
-	
-		
-			
-		
-	
-		
-			
-		
-	
-		
-			
-		
-	
-		
-			
-		
-	
-		
-			
-		
-	
-		
-			
-		
-	
-		
-			
 			
 		
 	
@@ -186,13 +159,41 @@
 			
 		
 	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
+	
+		
+			
+		
 	
 	
-		<li class="prev"><a href="/%E7%B2%89%E4%B8%9D%E6%95%B0%E6%8E%92%E8%A1%8C%E6%A6%9C/" class="alignleft prev"><i class="fa fa-arrow-circle-o-left"></i>prev</a></li>
+	
+		<li class="prev disabled"><a><i class="fa fa-arrow-circle-o-left"></i>prev</a></li>
 	
 	<li><a href="/"><i class="fa fa-archive"></i>Home</a></li>
 	
-		<li class="next"><a href="/%E9%85%B7%E5%AE%89APP%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86/" class="alignright next">next<i class="fa fa-arrow-circle-o-right"></i></a></li>
+		<li class="next"><a href="/%5B%E8%B5%84%E6%96%99%5D%E3%80%8A%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7%E3%80%8B/" class="alignright next">next<i class="fa fa-arrow-circle-o-right"></i></a></li>
 	
 </ul>
 </div>
