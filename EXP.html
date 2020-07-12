@@ -74,7 +74,7 @@
 					u='升';}else u='降';
 
 				/* 输出 */
-				document.getElementById("d").innerHTML="当前等级为：<i><font color=#"+c[(l>9)*9+(l<10)*(l-!!l)]+">Lv."+l+"</font></i><br>"+u+"级至<i><font color=#"+c[(n>9)*9+(n<10)*(n-!!n)]+">Lv."+n+"</font></i>需"+z+"EXP<br>当前每日上限为"+m+"EXP<br>理论"+d+"天内可"+u+"级，即到达"+new Date(new Date().getTime()+(d-!!d)*86400000).toLocaleDateString()+"<br><a href="+location.pathname+"?e="+w+"&l="+q+">分享链接(移动端长按复制带参数链接，需浏览器支持)</a>";}
+				document.getElementById("d").innerHTML="当前等级为：<i><font color=#"+c[(l>9)*9+(l<10)*(l-!!l)]+">Lv."+l+"</font></i><br>"+u+"级至<i><font color=#"+c[(n>9)*9+(n<10)*(n-!!n)]+">Lv."+n+"</font></i>需"+z+"EXP<br>当前每日上限为"+m+"EXP<br>理论至少"+d+"天可"+u+"级，即到达"+new Date(new Date().getTime()+(d-!!d)*86400000).toLocaleDateString()+"<br><a href="+location.pathname+"?e="+w+"&l="+q+">分享链接(移动端长按复制带参数链接，需浏览器支持)</a>";}
 		</script>
 	</body>
 </html>
