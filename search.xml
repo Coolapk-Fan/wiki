@@ -177,7 +177,7 @@
       <link href="/%E9%85%B7%E5%AE%89API%E5%A4%A7%E5%85%A8/"/>
       <url>/%E9%85%B7%E5%AE%89API%E5%A4%A7%E5%85%A8/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>功能</th><th>API</th><th>数据</th><th>示例</th></tr></thead><tbody><tr><td>个人主页</td><td><a href="https://api.coolapk.com/v6/user/space?uid=">https://api.coolapk.com/v6/user/space?uid=</a></td><td>用户uid</td><td><a href="https://api.coolapk.com/v6/user/space?uid=10002">https://api.coolapk.com/v6/user/space?uid=10002</a></td></tr><tr><td>信息编辑</td><td><a href="https://api.coolapk.com/v6/account/changeProfile">https://api.coolapk.com/v6/account/changeProfile</a></td><td></td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>功能</th><th>API</th></tr></thead><tbody><tr><td>个人主页</td><td><a href="https://api.coolapk.com/v6/user/space?uid=">https://api.coolapk.com/v6/user/space?uid=</a></td></tr><tr><td>关注列表</td><td><a href="https://api.coolapk.com/v6/user/followList?uid=">https://api.coolapk.com/v6/user/followList?uid=</a></td></tr><tr><td>粉丝列表</td><td><a href="https://api.coolapk.com/v6/user/fansList?uid=">https://api.coolapk.com/v6/user/fansList?uid=</a></td></tr><tr><td>用户图文</td><td><a href="https://api.coolapk.com/v6/user/htmlFeedList?uid=">https://api.coolapk.com/v6/user/htmlFeedList?uid=</a></td></tr><tr><td>信息编辑</td><td><a href="https://api.coolapk.com/v6/account/changeProfile">https://api.coolapk.com/v6/account/changeProfile</a></td></tr></tbody></table>]]></content>
       
       
       
