@@ -177,7 +177,7 @@
       <link href="/%E9%85%B7%E5%AE%89API%E5%A4%A7%E5%85%A8/"/>
       <url>/%E9%85%B7%E5%AE%89API%E5%A4%A7%E5%85%A8/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>功能</th><th>API</th></tr></thead><tbody><tr><td>个人主页</td><td><a href="https://api.coolapk.com/v6/user/space?uid=">https://api.coolapk.com/v6/user/space?uid=</a></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>功能</th><th>API</th></tr></thead><tbody><tr><td>个人主页</td><td><a href="https://api.coolapk.com/v6/user/space?uid=">https://api.coolapk.com/v6/user/space?uid=</a></td></tr><tr><td>信息编辑</td><td><a href="https://api.coolapk.com/v6/account/changeProfile">https://api.coolapk.com/v6/account/changeProfile</a></td></tr></tbody></table>]]></content>
       
       
       
