@@ -58,7 +58,16 @@
 	  
 
 	  <!-- content -->
-	  <table>
+	  <h1>酷安Api获取方法</h1>
+<p>简单粗暴–抓包</p>
+<h2 id="已Root抓包">已Root抓包</h2>
+<p>将抓包软件的CA证书安装为系统证书，如已安装为用户证书：将/data/misc/user/0/cacerts-added/下的证书移至/system/etc/security/cacerts/</p>
+<h2 id="无Root抓包">无Root抓包</h2>
+<p>使用虚拟姬安装可使用Root权限的ROM<br>
+虚拟姬外部使用抓包软件安装用户证书，将抓包软件的CA证书从外部/data/misc/user/0/cacerts-added/<br>
+移至虚拟姬内/system/etc/security/cacerts/<br>
+虚拟姬内部运行酷安，在外部抓取虚拟姬数据</p>
+<table>
 <thead>
 <tr>
 <th>功能</th>
