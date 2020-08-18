@@ -120,10 +120,10 @@
 <td>点赞</td>
 <td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/like?id=%7B%E5%8A%A8%E6%80%81ID%7D">https://api.coolapk.com/v6/feed/like?id={动态ID}</a></td>
 <td>POST</td>
+<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {}<br>X-Dark-Mode: 0<br>Content-Length: 0<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>{<br>“data”: {<br>“count”: 赞数,<br>“recentLikeList”: [<br>“点赞者用户名”,<br>&quot;…&quot;<br>]<br>}}</td>
 </tr>
 <tr>
 <td>用户图文</td>
