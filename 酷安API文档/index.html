@@ -120,7 +120,7 @@
 <td>发贴</td>
 <td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/createFeed?message=%7B%E5%86%85%E5%AE%B9%7D&amp;type=feed&amp;is_html_article=0&amp;pic=&amp;status=1&amp;location=&amp;long_location=&amp;latitude=0.0&amp;longitude=0.0&amp;media_url=&amp;media_type=0&amp;media_pic=&amp;message_title=&amp;message_brief=&amp;extra_title=&amp;extra_url=&amp;extra_key=&amp;extra_pic=&amp;extra_info=&amp;message_cover=&amp;disallow_repost=0&amp;is_anonymous=%7B%E6%98%AF%E5%90%A6%E5%8C%BF%E5%90%8D%7D&amp;is_editInDyh=0&amp;forwardid=&amp;fid=&amp;dyhId=%7B%E7%9C%8B%E7%9C%8B%E5%8F%B7ID%7D&amp;targetType=&amp;productId=&amp;province=&amp;city_code=&amp;province=&amp;city_code=&amp;targetId=&amp;location_city=&amp;location_country=&amp;disallow_reply=0&amp;vote_score=0&amp;replyWithForward=0&amp;media_info=&amp;insert_product_media=0">https://api.coolapk.com/v6/feed/createFeed?message={内容}&amp;type=feed&amp;is_html_article=0&amp;pic=&amp;status=1&amp;location=&amp;long_location=&amp;latitude=0.0&amp;longitude=0.0&amp;media_url=&amp;media_type=0&amp;media_pic=&amp;message_title=&amp;message_brief=&amp;extra_title=&amp;extra_url=&amp;extra_key=&amp;extra_pic=&amp;extra_info=&amp;message_cover=&amp;disallow_repost=0&amp;is_anonymous={是否匿名}&amp;is_editInDyh=0&amp;forwardid=&amp;fid=&amp;dyhId={看看号ID}&amp;targetType=&amp;productId=&amp;province=&amp;city_code=&amp;province=&amp;city_code=&amp;targetId=&amp;location_city=&amp;location_country=&amp;disallow_reply=0&amp;vote_score=0&amp;replyWithForward=0&amp;media_info=&amp;insert_product_media=0</a></td>
 <td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {}<br>X-Dark-Mode: 0<br>Content-Type: application/x-www-form-urlencoded<br>Content-Length: {主体字节数}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}</td>
+<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {}<br>X-Dark-Mode: 0<br>Content-Type: application/x-www-form-urlencoded<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}</td>
 <td></td>
 <td></td>
 <td></td>
@@ -138,8 +138,8 @@
 <td>评论</td>
 <td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/reply?id=%7B%E5%8A%A8%E6%80%81id%7D&amp;type=feed">https://api.coolapk.com/v6/feed/reply?id={动态id}&amp;type=feed</a></td>
 <td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字节数}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
-<td>–{boundary}<br>Content-Disposition: form-data; name=&quot;message&quot;<br>Content-Length: {评论内容字节数}<br><br>评论内容<br>–{boundary}–</td>
+<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
+<td>–{boundary}<br>Content-Disposition: form-data; name=&quot;message&quot;<br>Content-Length: {评论内容字符串长度}<br><br>评论内容<br>–{boundary}–</td>
 <td></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@
 <td>检查更新</td>
 <td><a target="_blank" rel="noopener" href="https:/api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta=%7B0,1%7D">https:/api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta={0,1}</a></td>
 <td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字节数}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
+<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
 <td></td>
 <td></td>
 <td></td>
