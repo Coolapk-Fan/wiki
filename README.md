@@ -10,3 +10,4 @@ Github Pages: <https://coolapkwiki.js.org> (Demo)
 ## clone
 ```bash
 $ git clone https://github.com/Coolapk-Fan/wiki.wiki
+```
