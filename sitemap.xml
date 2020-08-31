@@ -184,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://coolapkwiki.js.org/Home/</loc>
-    
-    <lastmod>2020-08-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://coolapkwiki.js.org/XX%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     
     <lastmod>2020-08-31</lastmod>
@@ -198,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://coolapkwiki.js.org/about/index.html</loc>
+    <loc>https://coolapkwiki.js.org/Home/</loc>
     
     <lastmod>2020-08-31</lastmod>
     
@@ -213,6 +206,13 @@
   
   <url>
     <loc>https://coolapkwiki.js.org/tags/index.html</loc>
+    
+    <lastmod>2020-08-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coolapkwiki.js.org/about/index.html</loc>
     
     <lastmod>2020-08-31</lastmod>
     
