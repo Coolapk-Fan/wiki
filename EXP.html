@@ -5,76 +5,7 @@
 		<link rel="icon" href="https://static.coolapk.com/emoticons/v9/coolapk_emotion_64_shounuehuaji.png">
 		<title>不怎么准的酷安等级计算器</title>
 	</head>
-	<body onload="C()">
-		<script>
-			/* 根据URL生成输入框 */
-			a = location.href.match(/\d+/);if(!a)a="";
-			b = location.href.match(/\d+$/);if(!b)b="";
-			document.write("当前经验:<input type=\"text\"id=\"e\"maxlength=\"7\"onkeyup=\"C()\"value=\""+a+"\"autofocus><br>目标等级:<input type=\"text\"id=\"n\"maxlength=\"2\"onkeyup=\"C()\"value=\""+b+"\"placeholder=\"留空默认下一级\">");
-		</script>
-		<h3><p id="d"></p></h3><br>
-		<h1>声明:</h1><br>
-		<h2>由于算法逻辑上错误导致跨级计算(不影响当前等级至下一级的计算)结果存在一定程度(不超过14天，因为没人到达14级，更高等级没有确凿的数据，仅为理论值,具体见<a href="/经验计算规则/">经验计算规则</a>)的误差<br>将于N天内改进(电脑挂了，懂我意思吧？滑稽)<br>所以!（计算结果仅供参考）</h2><br>
-		<script>
-			function p(x){return x**3*1000;}
-			function C(){
-				/* 设置初始值及颜色 */
-				var d=l=0,c=['D9D9D9','90DFFD','42B9FD','0F7ED0','4CB04D','FEC106','FD9800','FE5720','EA1E63','9A28B1'];
-
-				/* 读取输入框 */
-				w=document.getElementById("e").value;
-				q=document.getElementById("n").value;
-				
-				/* 计算当前等级 */
-				if(w>299)for(;p(l)<=w;l++);
-
-				/* 计算目标等级 */
-				n=!q*l+!!q*(q-1);
-
-				/* 计算升到下一级所需经验 */
-				z=p(n)+(n<0)*1000+!n*300-w;
-
-				/* 计算当前每日上限 */
-				t=m=(!l+l+(l>5)*(l-5))*100+10;
-
-				/* 计算时间 */
-				if(l<++n){
-					e=!!l*p(l)+!l*300-w;
-					
-					/* 跨级计算 */
-					for(i=n;i>l;i--){
-						d+=e/t;
-						e=(i>1)*p(i-1)-p(i-2)*(i>2)+300*(i*(i<2)-(i-1)*(i<3));
-						t=((i<2)+(i-1)+(i>5)*(i-6))*100+10;
-					}
-
-					/*
-					eg.
-						// for(i=l;i<n;i++)
-						e<300:
-							-> 1: parseInt((300-e)/110)+((300-e)/110>0);
-								-> t = 110; -> t = (i<3)*100+10;
-								-> Math.ceil((300-e)/t);
-
-							-> 2: parseInt((1000-e)/110)+((1000-e)/110>0);
-								-> t = 110; -> t = (i<3)*100+10;
-								-> Math.ceil(1000-e)/t);
-
-							-> 3: parseInt((8000-((1000-e)/110>0)*110)/210)+((8000-((1000-e)/110>0)*110)/210>0);
-								-> e = ((1000-e)/t>0)*t;
-								-> t = 210; -> t = (i>2)*(i-2)*100+10; 
-								-> Math.ceil(8000-e)/t);
-
-							-> 4: parseInt((27000
-					*/
-
-					d=Math.ceil(d);
-
-					/* 判断升/降级 */
-					u='升';}else u='降';
-
-				/* 输出 */
-				document.getElementById("d").innerHTML="当前等级为：<i><font color=#"+c[(l>9)*9+(l<10)*(l-!!l)]+">Lv."+l+"</font></i><br>"+u+"级至<i><font color=#"+c[(n>9)*9+(n<10)*(n-!!n)]+">Lv."+n+"</font></i>需"+z+"EXP<br>当前每日上限为"+m+"EXP<br>理论至少"+d+"天可"+u+"级，即到达"+new Date(new Date().getTime()+(d-!!d)*86400000).toLocaleDateString()+"<br><a href="+location.pathname+"?e="+w+"&l="+q+">分享链接(移动端长按复制带参数链接，需浏览器支持)</a>";}
-		</script>
+	<body>
+	<h1>暂时下线进行代码重构,可先使用<a href="https://wws.lanzous.com/iujU6gkg4ef">由酷友2491578开发的安卓客户端</a></h1>
 	</body>
 </html>
