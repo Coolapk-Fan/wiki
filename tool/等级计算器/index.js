@@ -1,1 +1,1 @@
-Couldn't find the requested file /tool/ç­çº§è®¡ç®å¨/index.js in Coolapk-Fan/wiki.
+Failed to fetch Coolapk-Fan/wiki@latest from GitHub.
