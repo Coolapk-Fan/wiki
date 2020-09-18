@@ -81,12 +81,18 @@
 <blockquote>
 <p>编者个人不太喜欢这种方法，浪费存储空间和电</p>
 </blockquote>
+<h4 id="方案二">方案二</h4>
+<p>安装<a target="_blank" rel="noopener" href="https://github.com/AdguardTeam/AdguardForAndroid/releases">com.adguard.android</a>，您不需要任何配置以及执行，酷安会自行识别该软件是否存在，若存在，则自动关闭开屏广告</p>
+<blockquote>
+<p>在酷安10.5.3(2009041)测试有效，其它版本未测试<br>
+如果觉得几十M太大，若不需要使用Adguard,完全可以自行创建包名为<code>com.adguard.android</code>的“空包”，它不需要任何内容，体积可为200k以下</p>
+</blockquote>
 <h4 id="仅已root">仅已root</h4>
 <h5 id="方案一-4">方案一</h5>
 <p>更改hosts文件<br>
 <code>/etc/hosts</code> 添加一行 <code>127.0.0.1 sdk.e.qq.com</code></p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">su -c <span class="string">&#x27;echo &quot;127.0.0.1 sdk.e.qq.com&quot; &gt;&gt; /etc/hosts&#x27;</span></span><br></pre></td></tr></table></figure>
-<h5 id="方案二">方案二</h5>
+<h5 id="方案二-2">方案二</h5>
 <p>禁用组件</p>
 <h1>头条广告</h1>
 <h1>搜索广告</h1>
