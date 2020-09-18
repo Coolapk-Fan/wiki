@@ -307,7 +307,7 @@
       <link href="/%E5%B9%B2%E6%8E%89%E5%B9%BF%E5%91%8A%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
       <url>/%E5%B9%B2%E6%8E%89%E5%B9%BF%E5%91%8A%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<h1>全局广告</h1><h2 id="1-使用非官方版">1.使用非官方版</h2><h1>开屏广告</h1><h1>头条广告</h1><h1>搜索广告</h1>]]></content>
+        <content type="html"><![CDATA[<h1>全局广告</h1><h2 id="1-使用非官方版">1.使用非官方版</h2><h1>开屏广告</h1><h2 id="误触解决方案">误触解决方案</h2><ol><li>杀死酷安后台，停止下载</li><li>删除 /sdcard/Android/data/com.coolapk.market/cache/com_qq_e_dowmload</li></ol><h2 id="去除方案">去除方案</h2><h3 id="临时去除">临时去除</h3><h3 id="永久去除">永久去除</h3><h4 id="通用">通用</h4><h4 id="已root">已root</h4><h1>头条广告</h1><h1>搜索广告</h1>]]></content>
       
       
       
