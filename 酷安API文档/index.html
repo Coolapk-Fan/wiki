@@ -88,120 +88,6 @@
 虚拟姬外部使用抓包软件安装用户证书，将抓包软件的CA证书从外部/data/misc/user/0/cacerts-added/<br>
 移至虚拟姬内/system/etc/security/cacerts/<br>
 虚拟姬内部运行酷安，在外部抓取虚拟姬数据</p>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th>API</th>
-<th>请求方法</th>
-<th>请求头</th>
-<th>请求主体</th>
-<th>响应头</th>
-<th>应答主体</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>登录</td>
-<td><a target="_blank" rel="noopener" href="https://account.coolapk.com/auth/loginByCoolapk?submit=1&amp;requestHash=%7B%7D&amp;login=%7B%E8%B4%A6%E5%8F%B7%7D&amp;password=%7B%E5%AF%86%E7%A0%81%7D&amp;captcha=%7B%E9%AA%8C%E8%AF%81%E7%A0%81%7D&amp;randomNumber=%7B%7D">https://account.coolapk.com/auth/loginByCoolapk?submit=1&amp;requestHash={}&amp;login={账号}&amp;password={密码}&amp;captcha={验证码}&amp;randomNumber={}</a></td>
-<td>POST</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>个人主页</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/user/space?uid=%7BUID%7D">https://api.coolapk.com/v6/user/space?uid={UID}</a></td>
-<td>GET</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>关注列表</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/user/followList?uid=%7BUID%7D">https://api.coolapk.com/v6/user/followList?uid={UID}</a></td>
-<td>GET</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>粉丝列表</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/user/fansList?uid=%7BUID%7D">https://api.coolapk.com/v6/user/fansList?uid={UID}</a></td>
-<td>GET</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>发贴</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/createFeed?message=%7B%E5%86%85%E5%AE%B9%7D&amp;type=feed&amp;is_html_article=0&amp;pic=&amp;status=1&amp;location=&amp;long_location=&amp;latitude=0.0&amp;longitude=0.0&amp;media_url=&amp;media_type=0&amp;media_pic=&amp;message_title=&amp;message_brief=&amp;extra_title=&amp;extra_url=&amp;extra_key=&amp;extra_pic=&amp;extra_info=&amp;message_cover=&amp;disallow_repost=0&amp;is_anonymous=%7B%E6%98%AF%E5%90%A6%E5%8C%BF%E5%90%8D%7D&amp;is_editInDyh=0&amp;forwardid=&amp;fid=&amp;dyhId=%7B%E7%9C%8B%E7%9C%8B%E5%8F%B7ID%7D&amp;targetType=&amp;productId=&amp;province=&amp;city_code=&amp;province=&amp;city_code=&amp;targetId=&amp;location_city=&amp;location_country=&amp;disallow_reply=0&amp;vote_score=0&amp;replyWithForward=0&amp;media_info=&amp;insert_product_media=0">https://api.coolapk.com/v6/feed/createFeed?message={内容}&amp;type=feed&amp;is_html_article=0&amp;pic=&amp;status=1&amp;location=&amp;long_location=&amp;latitude=0.0&amp;longitude=0.0&amp;media_url=&amp;media_type=0&amp;media_pic=&amp;message_title=&amp;message_brief=&amp;extra_title=&amp;extra_url=&amp;extra_key=&amp;extra_pic=&amp;extra_info=&amp;message_cover=&amp;disallow_repost=0&amp;is_anonymous={是否匿名}&amp;is_editInDyh=0&amp;forwardid=&amp;fid=&amp;dyhId={看看号ID}&amp;targetType=&amp;productId=&amp;province=&amp;city_code=&amp;province=&amp;city_code=&amp;targetId=&amp;location_city=&amp;location_country=&amp;disallow_reply=0&amp;vote_score=0&amp;replyWithForward=0&amp;media_info=&amp;insert_product_media=0</a></td>
-<td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {}<br>X-Dark-Mode: 0<br>Content-Type: application/x-www-form-urlencoded<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>赞</td>
-<td>点赞 <a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/like?id=%7B%E5%8A%A8%E6%80%81ID%7D">https://api.coolapk.com/v6/feed/like?id={动态ID}</a><br>取消点赞 <a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/unlike?id=%7B%E5%8A%A8%E6%80%81ID%7D">https://api.coolapk.com/v6/feed/unlike?id={动态ID}</a></td>
-<td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Length: 0<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}</td>
-<td></td>
-<td></td>
-<td>{<br>“data”: {<br>“count”: 赞数,<br>“recentLikeList”: [<br>“点赞者用户名”,<br>&quot;…&quot;<br>]<br>}}</td>
-</tr>
-<tr>
-<td>评论</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/feed/reply?id=%7B%E5%8A%A8%E6%80%81id%7D&amp;type=feed">https://api.coolapk.com/v6/feed/reply?id={动态id}&amp;type=feed</a></td>
-<td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
-<td>–{boundary}<br>Content-Disposition: form-data; name=&quot;message&quot;<br>Content-Length: {评论内容字符串长度}<br><br>评论内容<br>–{boundary}–</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>用户图文</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/user/htmlFeedList?uid=%7BUID%7D">https://api.coolapk.com/v6/user/htmlFeedList?uid={UID}</a></td>
-<td>GET</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>信息编辑</td>
-<td><a target="_blank" rel="noopener" href="https://api.coolapk.com/v6/account/changeProfile">https://api.coolapk.com/v6/account/changeProfile</a></td>
-<td>GET</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>背景封面编辑</td>
-<td><a target="_blank" rel="noopener" href="http://coolapk-oss-avatar.oss-cn-hangzhou.aliyuncs.com/cover/%7B%E6%97%B6%E9%97%B4%E6%88%B3%E5%89%8D1-2%E4%BD%8D%7D/%7B%E6%97%B6%E9%97%B4%E6%88%B3%E5%89%8D3-4%E4%BD%8D%7D/%7B%E6%97%B6%E9%97%B4%E6%88%B3%E5%89%8D5-6%E4%BD%8D%7D/%7BUID%7D_%7B%E7%A7%92%E6%97%B6%E9%97%B4%E6%88%B3%7D.jpg">http://coolapk-oss-avatar.oss-cn-hangzhou.aliyuncs.com/cover/{时间戳前1-2位}/{时间戳前3-4位}/{时间戳前5-6位}/{UID}_{秒时间戳}.jpg</a></td>
-<td>PUT</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>检查更新</td>
-<td><a target="_blank" rel="noopener" href="https:/api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta=%7B0,1%7D">https:/api.coolapk.com/v6/apk/checkUpdate?coolmarket_beta={0,1}</a></td>
-<td>POST</td>
-<td>User-Agent: {UA}<br>X-Requested-With: XMLHttpRequest<br>X-Sdk-Int: 22<br>X-Sdk-Locale: zh-CN<br>X-App-Id: com.coolapk.market<br>X-App-Token: {酷安Token}<br>X-App-Version: {酷安版本}<br>X-App-Code: {酷安内部版本号}<br>X-Api-Version: {酷安大版本}<br>X-App-Device: {设备ID}<br>X-Dark-Mode: 0<br>Content-Type: multipart/form-data; boundary={boundary}<br>Content-Length: {主体字符串长度}<br>Host: api.coolapk.com<br>Connection: Keep-Alive<br>Accept-Encoding: gzip<br>Cookie: uid={UID}; username={UserName}; token={Token}<br></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 	  
 
 	  <div>
@@ -283,10 +169,6 @@
 			
 			
 			
-		
-			
-		
-	
 		
 			
 		
