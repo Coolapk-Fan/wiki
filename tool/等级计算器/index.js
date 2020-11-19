@@ -1,7 +1,1 @@
-<html>
-<head><title>524 Origin Time-out</title></head>
-<body bgcolor="white">
-<center><h1>524 Origin Time-out</h1></center>
-<hr><center>cloudflare-nginx</center>
-</body>
-</html>
+Couldn't find the requested file /tool/ç­çº§è®¡ç®å¨/index.js in Coolapk-Fan/wiki.
