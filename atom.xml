@@ -6,7 +6,7 @@
   <link href="https://coolapkwiki.js.org/atom.xml" rel="self"/>
   
   <link href="https://coolapkwiki.js.org/"/>
-  <updated>2021-06-16T06:56:12.106Z</updated>
+  <updated>2021-06-16T07:22:36.711Z</updated>
   <id>https://coolapkwiki.js.org/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>👻�沙盒页</title>
     <link href="https://coolapkwiki.js.org/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/"/>
     <id>https://coolapkwiki.js.org/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/</id>
-    <published>2021-06-16T06:56:12.106Z</published>
-    <updated>2021-06-16T06:56:12.106Z</updated>
+    <published>2021-06-16T07:22:36.711Z</published>
+    <updated>2021-06-16T07:22:36.711Z</updated>
     
     <content type="html"><![CDATA[<p><strong>该沙盒仅用于Markdown效果预览，可随意编辑</strong></p><p>测试bot</p><h1>H1</h1><h1>H1</h1>]]></content>
     
@@ -44,8 +44,8 @@
     <title>👻�未分类杂项</title>
     <link href="https://coolapkwiki.js.org/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/"/>
     <id>https://coolapkwiki.js.org/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/</id>
-    <published>2021-06-16T06:56:12.102Z</published>
-    <updated>2021-06-16T06:56:12.102Z</updated>
+    <published>2021-06-16T07:22:36.707Z</published>
+    <updated>2021-06-16T07:22:36.707Z</updated>
     
     <content type="html"><![CDATA[<h1>酷安土豆专属壁纸</h1><p><a href="https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q">https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q</a></p>]]></content>
     
@@ -65,8 +65,8 @@
     <title>👻酷安页面链接</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/</id>
-    <published>2021-06-16T06:56:12.098Z</published>
-    <updated>2021-06-16T06:56:12.098Z</updated>
+    <published>2021-06-16T07:22:36.703Z</published>
+    <updated>2021-06-16T07:22:36.703Z</updated>
     
     <content type="html"><![CDATA[<table><thead><tr><th>页面</th><th>链接</th></tr></thead><tbody><tr><td>用户</td><td><a href="http://coolapk.com/u/%7Buid%5C%7Cusername%7D">http://coolapk.com/u/{uid\|username}</a></td></tr><tr><td>应用</td><td><a href="https://coolapk.com/apk/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/apk/{包名}</a></td></tr><tr><td>游戏</td><td><a href="https://coolapk.com/game/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/game/{包名}</a></td></tr><tr><td>发现</td><td><a href="https://coolapk.com/faxian/%7Bid%7D">https://coolapk.com/faxian/{id}</a></td></tr><tr><td>动态<br>评论<br>图文<br>二手交易<br>提问<br>回答<br>观点</td><td><a href="https://coolapk.com/feed/%7Bid%7D">https://coolapk.com/feed/{id}</a></td></tr><tr><td>酷图</td><td><a href="https://coolapk.com/picture/%7Bid%7D">https://coolapk.com/picture/{id}</a></td></tr><tr><td>看看号</td><td><a href="https://coolapk.com/dyh/%7Bid%7D">https://coolapk.com/dyh/{id}</a></td></tr><tr><td>收藏单</td><td><a href="https://coolapk.com/collection/%7Bid%7D">https://coolapk.com/collection/{id}</a></td></tr><tr><td>应用集</td><td><a href="https://coolapk.com/album/%7Bid%7D">https://coolapk.com/album/{id}</a></td></tr><tr><td>话题</td><td><a href="https://coolapk.com/t/%7B%E8%AF%9D%E9%A2%98%E5%90%8D%E7%A7%B0%7D">https://coolapk.com/t/{话题名称}</a></td></tr><tr><td>注销</td><td><a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></td></tr><tr><td>文章</td><td>待补充</td></tr></tbody></table>]]></content>
     
@@ -95,8 +95,8 @@
     <title>👻酷安账号注销方式</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/</id>
-    <published>2021-06-16T06:56:12.094Z</published>
-    <updated>2021-06-16T06:56:12.094Z</updated>
+    <published>2021-06-16T07:22:36.699Z</published>
+    <updated>2021-06-16T07:22:36.699Z</updated>
     
     <content type="html"><![CDATA[<h2 id="开发者账号-普通用户组成员注销通道">开发者账号/普通用户组成员注销通道</h2><p>直链：<a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></p><p>或在应用内寻找入口，注销流程如下：设置-帮助与反馈-常见问题-如何注销酷安账号-申请注销</p><p>开发者需先进入<a href="https://developer.coolapk.com/">酷安开发者平台</a>下架所有应用，方可进行后续操作</p><blockquote><p>申请注销酷安账号<br>为了保证你的账号安全，申请注销账号时，酷安会对你的账号做以下验证</p></blockquote><blockquote><ol><li>账号安全<br>在15天内，该账号没有修改密码、改绑手机号或邮箱的记录</li></ol></blockquote><blockquote><ol start="2"><li>账号状态<br>若账号处于封禁、禁言等特殊状态则无法注销</li></ol></blockquote><blockquote><ol start="3"><li>账号绑定<br>若账号绑定了手机号与邮箱，则需要您能用绑定手机号或邮箱接收短信或邮件，才可以完成注销</li></ol></blockquote><blockquote><ol start="4"><li>应用上架<br>有应用上架的开发者账号暂无法直接注销，请在酷安下架您的应用才可以正常注销账号</li></ol></blockquote><blockquote><p>我已阅读并同意以上信息<br>下一步<br>退出注销</p></blockquote><p>申请注销操作后会收到短信提醒，内容如下：</p><blockquote><p>【酷安】您的酷安帐号“某某某”刚刚申请了注销操作。 如非本人操作, 请于24小时内登录酷安App恢复账号。</p></blockquote><p>根据以上描述，用户如果在24小时内如若反悔依然可以登陆酷安APP恢复</p><p>管理员有权恢复已注销账号</p>]]></content>
     
@@ -116,8 +116,8 @@
     <title>👻酷安认证类型</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/</id>
-    <published>2021-06-16T06:56:12.090Z</published>
-    <updated>2021-06-16T06:56:12.090Z</updated>
+    <published>2021-06-16T07:22:36.695Z</published>
+    <updated>2021-06-16T07:22:36.695Z</updated>
     
     <content type="html"><![CDATA[<h1>酷安认证类型</h1><ol><li>个人开发者认证，图标为黄色尖括号(&lt;&gt;) 如 @pandecheng 等</li><li>企业开发者认证，图标为蓝色尖括号(&lt;&gt;)</li><li>酷安官方人员认证，图标为绿色对勾 如 @酷安小编 @梨子 等</li><li>认证大V-个人认证，黄色对勾 如 @数码闲聊分站 @晨钟酱 等</li><li>认证大V-官方账号认证，蓝色对勾 如 @NICEHCK耳机 等</li></ol><p>注：</p><p>4、5列在「首页-玩机大神-认证大V」</p><p>对勾其实是“V”</p><p><img src="https://i.loli.net/2020/05/25/slKekSJj4tfwD6U.png" alt="认证大V.png"></p>]]></content>
     
@@ -140,8 +140,8 @@
     <title>👻酷安网的口号(Slogan)</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%BD%91%E7%9A%84%E5%8F%A3%E5%8F%B7(Slogan)/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%BD%91%E7%9A%84%E5%8F%A3%E5%8F%B7(Slogan)/</id>
-    <published>2021-06-16T06:56:12.086Z</published>
-    <updated>2021-06-16T06:56:12.086Z</updated>
+    <published>2021-06-16T07:22:36.691Z</published>
+    <updated>2021-06-16T07:22:36.691Z</updated>
     
     <content type="html"><![CDATA[<p>V2:<br>酷然于外，安于内心<br>有良心、没节操<br>就是我们酷市场</p><p>V5～V7：<br>发现应用的乐趣</p><p>V8：<br>发现科技新生活  [2]</p><p>V9：<br>玩科技·聊话题·享生活</p><p>V10：<br>和你一起，发现科技新生活</p><p>V11：<br>玩数码，上酷安，真实有趣的数码社区</p><h3 id="参考资料">参考资料</h3><p>[1]<a href="https://zh.moegirl.org/zh-hans/%E9%85%B7%E5%AE%89%E5%A8%98">https://zh.moegirl.org/zh-hans/酷安娘</a><br>[2]<a href="https://www.coolapk.com/feed/5361778">https://www.coolapk.com/feed/5361778</a></p>]]></content>
     
@@ -170,8 +170,8 @@
     <title>👻酷安编年史</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%BC%96%E5%B9%B4%E5%8F%B2/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%BC%96%E5%B9%B4%E5%8F%B2/</id>
-    <published>2021-06-16T06:56:12.082Z</published>
-    <updated>2021-06-16T06:56:12.082Z</updated>
+    <published>2021-06-16T07:22:36.687Z</published>
+    <updated>2021-06-16T07:22:36.687Z</updated>
     
     <content type="html"><![CDATA[<h1>#酷安智力残疾人2018事件#</h1><p>待补充</p><h1>酷安5·22整改事件</h1><p>2017年5月22日，酷安下架所有非实名认证开发者的APP。<br><img src="https://coolapk-fan.github.io/wiki/img/RIP.jpg" alt=""><br><a href="https://www.zhihu.com/question/59946921">如何看待酷安于5月22日下架所有非实名认证开发者的App？-知乎</a></p><h1>“黑域手撕绿色守护”事件</h1><p>2018年2月4日，黑域开发者Brevent与绿色守护开发者oasisfeng产生矛盾。2月5日，酷安APP首页置顶话题#黑域手撕绿色守护#。</p><p><a href="https://www.zhihu.com/question/266710478">如何看待酷安黑域撕绿色守护事件？-知乎</a></p><h1>太极开发者weishu退出酷安事件</h1><p>待补充</p><h1>纯纯写作开发者drakeet退出酷安事件</h1><p><a href="https://www.zhihu.com/question/379945554" title="知乎链接，希望能帮到你">如何看待 drakeet 与 科学合理的 纯纯写作激活码 事件？-知乎</a></p><h1>@李沐梵先生 事件</h1><p>2019年8月</p><h1>酷安3·16事件</h1><p>2020年3月16日，酷安官方封禁大量用户（疑似为机器误杀），部分用户不满官方做法退出酷安。<br><a href="https://www.zhihu.com/question/380038074">如何看待酷安316事件？-知乎</a><br><a href="https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information">https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information</a></p><h1>酷安3·18整改事件</h1><p>2020年3月18日，酷安进行为期7天的整改，整改期间关闭回复、转发功能。3月31日，酷安清理大量用户头像和签名。<br>此次整改可能与此前部分用户大量发表<a href="https://twitter.com/realEmperorPooh/status/1245225934019391494">涉政内容</a>有关。</p><h1>微博用户 @蔷薇宫直纪 为酷安引流事件</h1><p>起因：<br>07月12日凌晨01:09，微博用户发帖称酷安可以作为微博的替代品，<a href="https://weibo.com/2152096302/JaLNHFTcC">原文</a>（已修改）如下（9:56）：</p><p><img src="https://i.niupic.com/images/2020/07/12/8osB.jpg" alt="微博原文"></p><p>经过：<br>在12日白天引发了酷安和微博两个平台用户的激烈讨论（其中不乏过激言论），截止当日14:41，原微博已获评论645、赞5855、<br>转发2915。</p><p><a href="https://www.coolapk.com/feed/20140167">酷安会成为下一个微博吗？</a><br>alexkillers：不会。</p><p><a href="https://www.coolapk.com/feed/20139062">酷安是要涌来一堆微博小改改了吗？</a><br>酷安小编：不可能的</p><h1>应用「搞机助手」下架事件</h1><p>相关应用：<a href="https://www.coolapk.com/apk/Han.GJZS">【搞机助手】</a><br>相关站内话题：<a href="https://www.coolapk.com/t/%E6%90%9E%E6%9C%BA%E5%8A%A9%E6%89%8B?type=0">#搞机助手#</a> <a href="https://www.coolapk.com/t/%E6%90%9E%E6%9C%BA%E5%8A%A9%E6%89%8B%E4%B8%8B%E6%9E%B6?type=0">#搞机助手下架#</a><br>软件报毒后被下架，导致酷安与搞机助手开发者和用户之间的矛盾冲突加重</p><h1>钱迹APP开发者vs熊猫记账APP开发者</h1><p>始于2021年1月13日晚间，于2021年1月14日午后达到高潮<br>所涉APP：熊猫记账 <a href="https://www.coolapk.com/apk/com.uanmi.miaojiaccount">https://www.coolapk.com/apk/com.uanmi.miaojiaccount</a> 钱迹 <a href="https://www.coolapk.com/apk/com.mutangtech.qianji">https://www.coolapk.com/apk/com.mutangtech.qianji</a><br>当事人：首富的气质http://www.coolapk.com/u/1117647 蛮大人说http://www.coolapk.com/u/1565381</p>]]></content>
     
@@ -194,8 +194,8 @@
     <title>👻酷安第三方(含破解)客户端</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%AC%AC%E4%B8%89%E6%96%B9(%E5%90%AB%E7%A0%B4%E8%A7%A3)%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%AC%AC%E4%B8%89%E6%96%B9(%E5%90%AB%E7%A0%B4%E8%A7%A3)%E5%AE%A2%E6%88%B7%E7%AB%AF/</id>
-    <published>2021-06-16T06:56:12.074Z</published>
-    <updated>2021-06-16T06:56:12.074Z</updated>
+    <published>2021-06-16T07:22:36.683Z</published>
+    <updated>2021-06-16T07:22:36.683Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>使用非官方版可能会导致你号没了<br>考虑开发者隐私及利益方面，仅公开最初发布点用户</p></blockquote><p><a href="https://bbs.binmt.cc/thread-50159-1-1.html">https://bbs.binmt.cc/thread-50159-1-1.html</a><br>基于 10.5.3<br>开发者: <a href="https://bbs.binmt.cc/home.php?uid=87194&amp;do=profile&amp;forcemobile=1">阡佰</a></p>]]></content>
     
@@ -218,8 +218,8 @@
     <title>👻酷安社区管理规范</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83/</id>
-    <published>2021-06-16T06:56:12.070Z</published>
-    <updated>2021-06-16T06:56:12.070Z</updated>
+    <published>2021-06-16T07:22:36.679Z</published>
+    <updated>2021-06-16T07:22:36.679Z</updated>
     
     <content type="html"><![CDATA[<h1>酷安社区管理规范</h1><p>原文：<a href="https://m.coolapk.com/mp/user/communitySpecification">https://m.coolapk.com/mp/user/communitySpecification</a></p><h3 id="一、导言">一、导言</h3><p>为了打造一个专业、互助、友善的科技数码社区，酷安团队特制定本社区规范。酷安团队将依据本规范中的条款对注册用户和发布的内容进行合理管理。采取的措施包括但不限于更改或删除用户发布的内容、暂停或终止用户使用酷安的权利。所有有意降低内容质量、伤害社区氛围的行为（下称「破坏」）都是不能容忍的。</p><p>若对本规范的理解和执行有任何疑虑或争议，可以发送邮件至 help#<a href="http://coolapk.com">coolapk.com</a>，我们将根据有关规则予以解释或处理。</p><h3 id="二、违规行为界定">二、违规行为界定</h3><ol><li>违反法律法规：发布违反法律法规，危害国家及社会安全的信息，包括但不限于：</li></ol><blockquote><ul><li>反对宪法所确定的基本原则</li><li>危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一</li><li>损害国家荣誉和利益</li><li>煽动民族仇恨、民族歧视，破坏民族团结</li><li>破坏国家宗教政策，宣扬邪教和封建迷信</li><li>散布谣言，扰乱社会秩序，破坏社会稳定</li><li>宣扬淫秽、赌博、暴力、凶杀、恐怖或者教唆犯罪</li><li>发布有关规定中明确禁止的淫秽内容（如性器官、性行为、性心理的详细描写），或发布引诱性图片文字引导用户进行线上线下的色情服务交易及色情网站</li><li>煽动非法集会、结社、游行、示威、聚众扰乱社会秩序</li><li>传播、制作和讨论非法境外上网工具</li><li>诽谤他人，泄露他人隐私，侵害他人合法权益</li></ul></blockquote><ol start="2"><li>危害民族功德和民族优良文化传统：发布淫秽色情、血腥暴力、违禁违规信息等相关内容，包括但不限于</li></ol><blockquote><ul><li>散播淫秽、色情类信息，包括但不限于招嫖、裸聊或偷拍走光等内容。或在其他用户动态下评论有骚扰性质的文字信息</li><li>引人不适具有极度视觉冲击的血腥内容或记录自残、自杀的相关内容</li><li>发布国家法律明令禁止的违禁违规物品售卖信息</li><li>官方未证实的社会谣言类内容</li><li>发布揭露社会负面，使得舆论导向有偏颇的内容。例如：校园暴力、虐童等</li></ul></blockquote><ol start="3"><li>危害国家安全和政治稳定：发布涉及政治领导人负面信息，包括但不限于：</li></ol><blockquote><ul><li>冒用国内外领导人形象注册账号</li><li>使用国内外领导人的姓名（含谐音字）作为账号注册名称的</li><li>传播涉及党和国家领导人不实谣言信息</li><li>传播有损领导人形象的歌谣、顺口溜、诗词、小品、段子</li><li>违反《治安管理处罚法》，有明确目的、组织性的行动，如：集体请愿、上访、游行、集会、罢工、罢市、抗法</li></ul></blockquote><ol start="4"><li>侵害公民权利利益：在未经许可的情况下发布涉及侵占其他用户或企业隐私权、肖像权、名誉权、知识产权等信息，包括但不限于：</li></ol><blockquote><ul><li>通过互联网发表他人隐私、披露他人不愿意公开的个人信息（身份证信息、工作单位、手机号码、邮件地址、亲友联系方式、姓名、照片等）</li><li>捏造事实公然发表过激言论、恶意诽谤中伤他人，丑化他人人格及形象，用粗俗、下流、威胁性、侮辱性言论，胁迫骚扰他人等方式损害他人名誉，为达到不正当竞争的目的，因交易发生矛盾而诽谤污蔑，侵犯商家名誉权的言论和行为</li><li>以非法上传、下载、在线点播、搜索链接（电影、歌曲、文章、书籍等）等侵犯他人著作权的；未经许注册、使用域名、侵犯了他人商标权的言论和行为。</li><li>侵犯姓名权、名称权、肖像权，冒用或者盗用他人的名义和个人资料进行用户注册、仿冒他人发布文章、贴文等的言论和行为</li></ul></blockquote><ol start="5"><li>不友善行为：不尊重酷安用户及其所贡献内容的行为，包括但不限于：</li></ol><blockquote><ul><li>骚扰：以评论、@ 他人、私信等方式对他人反复发送重复或者相似的诉求，或者以下流、淫秽语言挑逗同性/异性</li><li>谩骂：以不文明的语言对他人进行负面评价</li><li>羞辱：贬低他人的能力、行为、生理或身份特征，让对方难堪</li><li>歧视：针对他人的民族、种族、宗教、性取向、性别、年龄、地域、生理特征等身份或者归类的攻击</li><li>挑衅：以不友好的方式激怒他人，意图使对方对自己的言论作出回应，蓄意制造事端</li></ul></blockquote><ol start="6"><li>恶意行为：影响用户体验、扰乱酷安社区秩序的信息或影响运营安全的行为，包括但不限于：</li></ol><blockquote><ul><li>发布含有钓鱼网站、盗版、木马、病毒网站链接及相关内容</li><li>发布含有潜在危险、窃取用户隐私等相关内容</li><li>胡乱举报没有违规行为的用户和动态</li><li>以隐瞒事实或隐瞒真相的方式，利用二手买卖、先款交易等骗取其他用户金钱财产的诈骗类信息</li><li>发布含有无关话题、无关图片或擦边球图片的内容</li><li>冒充他人，通过头像、用户名等个人信息暗示自己与他人相等同或有关联</li><li>侵犯酷安知识产权，发布、使用、恶搞酷安logo等，或者容易与目前已有酷安产品设计主题、外观等混淆的内容</li><li>冒充酷安站内及相关业务官方账号或工作人员</li><li>恶意刷梗、抖机灵以博关注，影响社区风气</li><li>引战、带节奏，挑起他人跟风产生争端</li></ul></blockquote><ol start="7"><li>发布垃圾信息：发布影响用户体验、扰乱酷安社区秩序的信息或相关行为，包括但不限于：</li></ol><blockquote><ul><li>重复发布相似内容（包括但不限于发布动态、评论）</li><li>恶意拥有或使用多个帐号，或者与多个帐号合作谋求不正当曝光</li><li>买卖帐号、或使用同一账号同一设备重复灌水的行为</li><li>代购、卖假货、薅羊毛、人头车、引流公众号、散布二维码、群号等影响其他用户体验的广告类信息</li><li>宣泄情绪，使用手机吧功能恶意点评手机</li></ul></blockquote><h3 id="三、违规处理流程">三、违规处理流程</h3><p>通过主动发现和接受用户举报两种方式发现违规行为。用户可以使用「举报」功能对涉嫌违规的行为和用户进行举报。</p><p>违规的信息由酷安社区管理员根据本规定直接处理。一旦被认定发布以上内容或者有以上行为，账号将被执行以下操作：</p><ul><li><strong>警告</strong>：管理员将删除相应内容，用户会在消息通知收到系统违规处理提醒；</li><li><strong>禁言</strong>：管理员将删除相应内容，账号禁言7天或30天（禁言期间不能发布动态、点赞、@ 和评论他人，不能添加或取消关注，不能修改签名和头像）；</li><li><strong>禁止登陆</strong>：管理员将删除相应内容，账号无法登陆酷安；</li><li><strong>永久封禁</strong>：管理员将删除相应内容，且账号将被永久停用；</li><li><strong>永久封禁设备</strong>：管理员将删除相应内容，对于拥有多个违规账号的设备，设备永久禁止使用酷安。</li></ul><p>暂时没有被删除的违规内容并不意味着酷安容许它的存在，如果看到了符合违规标准但是没有被删除的内容，请尽快举报相应条目，我们会在举报之后 24 小时以内去处理。</p><h3 id="四、规范补充说明">四、规范补充说明</h3><p>本规范为动态文档，酷安有权根据相关法律法规或产品运营的需要对其内容进行修改并更新，请反复查看以便获得最新信息。</p><p>酷安希望创造一个专业、有趣的科技数码社区，希望大家能够友善对待他人，一起维护这来之不易的社区氛围。</p>]]></content>
     
@@ -239,8 +239,8 @@
     <title>👻酷安的「别称」</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/</id>
-    <published>2021-06-16T06:56:12.066Z</published>
-    <updated>2021-06-16T06:56:12.066Z</updated>
+    <published>2021-06-16T07:22:36.675Z</published>
+    <updated>2021-06-16T07:22:36.675Z</updated>
     
     <content type="html"><![CDATA[<h2 id="基安">基安</h2><p>酷安男性用户居多，且是“搞机论坛”，用户间互称“酷安基（机）佬”，故称酷安为“基安”。<s>（然而酷安真的可以“搞基” [1]）</s></p><h2 id="米安">米安</h2><p>小米用户在酷安用户中占比最大[2]。</p><h2 id="屑安-你安">屑安/你安</h2><p>“屑”源自日语，是“人渣、垃圾”的意思。该别称可能不友善。</p><h2 id="Cookapk-Cook安">Cookapk/Cook安</h2><p>酷安有很多关于烹饪（Cook）的教程[3]。</p><h2 id="豆安">豆安</h2><p>酷安服务器被称作“土豆服务器”[4]。</p><h2 id="折叠安-夹安">折叠安/夹安</h2><h2 id="其他别称">其他别称</h2><ul><li>Coolapk：酷安英文名</li><li>酷市场：酷安早期名称</li><li>宽：连读“酷安”</li></ul><h2 id="参考资料">参考资料</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[1]: 酷安话题“#Blued#”</span><br><span class="line">[2]: 酷安官方人员统计。见酷安话题“#酷安机型TOP榜#”</span><br><span class="line">[3]: 酷安话题“#Cookapk#”</span><br><span class="line">[4]: 阿酷：今天早上的豆安服务器真是一言难尽，不说了，我去洗个脸，早饭还没吃呢。</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -262,8 +262,8 @@
     <title>👻酷安折叠关键词列表</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E6%8A%98%E5%8F%A0%E5%85%B3%E9%94%AE%E8%AF%8D%E5%88%97%E8%A1%A8/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E6%8A%98%E5%8F%A0%E5%85%B3%E9%94%AE%E8%AF%8D%E5%88%97%E8%A1%A8/</id>
-    <published>2021-06-16T06:56:12.062Z</published>
-    <updated>2021-06-16T06:56:12.062Z</updated>
+    <published>2021-06-16T07:22:36.671Z</published>
+    <updated>2021-06-16T07:22:36.671Z</updated>
     
     <content type="html"><![CDATA[<p>别想了</p><p>没有！</p><p>不要试探折叠机制！</p><p>不要尝试探究折叠机制！</p>]]></content>
     
@@ -286,8 +286,8 @@
     <title>👻酷安之最</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E4%B9%8B%E6%9C%80/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E4%B9%8B%E6%9C%80/</id>
-    <published>2021-06-16T06:56:12.058Z</published>
-    <updated>2021-06-16T06:56:12.058Z</updated>
+    <published>2021-06-16T07:22:36.667Z</published>
+    <updated>2021-06-16T07:22:36.667Z</updated>
     
     <content type="html"><![CDATA[<h2 id="据说是酷安第一条应用圈">据说是酷安第一条应用圈</h2><p><a href="https://www.coolapk.com/feed/1215470">https://www.coolapk.com/feed/1215470</a></p><h2 id="酷安评论区的第一条应用评论">酷安评论区的第一条应用评论</h2><p><a href="https://www.coolapk.com/feed/271665?shareKey=ODc4NmIyZTBkNDhmNWYwOTY1MjM">https://www.coolapk.com/feed/271665?shareKey=ODc4NmIyZTBkNDhmNWYwOTY1MjM</a></p><h2 id="现存最早的动态（应用评论）">现存最早的动态（应用评论）</h2><p><a href="https://www.coolapk.com/feed/201187?shareKey=YTc0YTJkMDJhNTVkNWVhMjhjNmE">酷安另一小编的作品新鲜出炉了，可喜可贺 来自 酷安小编 - 酷安网</a></p><h2 id="最早上架的应用-第一个上架的应用">最早上架的应用 第一个上架的应用</h2><p><a href="http://www.coolapk.com/apk/developer.inter.widget.clock">【DMC气象台】</a>（应用已下架）<br><br>参考：<a href="https://www.coolapk.com/feed/7733553?shareKey=ZGJkYjY4NTA3ZTc3NWVkMWJhNGI">DMC气象台——酷市场第一个上架应用 来自 ymckc - 酷安网</a></p><h2 id="酷安的第一场发布会直播">酷安的第一场发布会直播</h2><p><a href="https://github.com/Coolapk-Fan/wiki/wiki/%5B%E7%B2%BE%E9%80%89%5D-%E9%85%B7%E5%AE%89%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-(Android)#89-beta">8.9-beta版本</a>新增了直播功能，18年11月28日的<a href="https://www.coolapk.com/live/1001">红魔Mars新品发布会直播</a>是酷安的首场直播<br>参考：<a href="https://www.coolapk.com/feed/9153628">https://www.coolapk.com/feed/9153628</a></p>]]></content>
     
@@ -308,8 +308,8 @@
     <title>👻酷安“红线”内容</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D%E5%86%85%E5%AE%B9/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89%E2%80%9C%E7%BA%A2%E7%BA%BF%E2%80%9D%E5%86%85%E5%AE%B9/</id>
-    <published>2021-06-16T06:56:12.054Z</published>
-    <updated>2021-06-16T06:56:12.054Z</updated>
+    <published>2021-06-16T07:22:36.663Z</published>
+    <updated>2021-06-16T07:22:36.663Z</updated>
     
     <content type="html"><![CDATA[<p>以下内容可能会导致“<a href="https://jikipedia.com/definition/456431060">你号没了</a>”</p><ul><li>破解/修改/盗版/侵权</li><li>涉黄</li><li>涉政/隐涉政治</li><li>恐怖</li><li>暴力</li><li>口吐芬芳</li><li>冒充官方</li><li>diss用户或官方人员</li><li>被多人举报</li><li>破环计算机信息系统（包括但不限于酷安<s>土豆</s>服务器）<br>……</li></ul><blockquote><p>友情提醒：『<a href="https://jikipedia.com/definition/107167042">互联网不是法外之地</a>』<br>更多请见 <a href="https://m.coolapk.com/mp/user/communitySpecification">酷安社区管理规范</a></p></blockquote>]]></content>
     
@@ -333,8 +333,8 @@
     <title>👻酷安iOS版本更新日志</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89iOS%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89iOS%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
-    <published>2021-06-16T06:56:12.050Z</published>
-    <updated>2021-06-16T06:56:12.050Z</updated>
+    <published>2021-06-16T07:22:36.659Z</published>
+    <updated>2021-06-16T07:22:36.659Z</updated>
     
     <content type="html"><![CDATA[<p>‎以下内容来源：<a href="https://apps.apple.com/cn/app/%E9%85%B7%E5%AE%89-%E5%8F%91%E7%8E%B0%E7%A7%91%E6%8A%80%E6%96%B0%E7%94%9F%E6%B4%BB/id1422581869">App Store 上的“酷安 - 发现科技新生活”</a></p><h1>2.7.2</h1><ul><li>修复 动态回复图片无法查看的问题</li><li>修复 动态回复间距不正确的问题</li><li>修复 私信在某些情况下显示不正确的问题</li><li>修复 纯表情通知无法查看详情的问题</li><li>优化 其他已知问题，继续优化体验</li></ul><h1>2.7.1</h1><ul><li>修复 新版回复闪退的问题</li><li>修复 回答详情页，无法快速回答提问的问题</li><li>优化 酷安默认表情包的展示效果</li><li>优化 其他已知问题，继续优化体验</li></ul><h1>2.7</h1><ul><li>新增 私信功能</li><li>新增 iOS13及以上系统可以使用Apple登录或注册酷安</li><li>修复 偶尔图文动态显示不全的问题</li><li>修复 小屏机型部分界面布局不正确的问题</li><li>修复 改名后无法正常发布动态的问题</li><li>优化 其他已知问题，继续优化体验</li></ul><h1>2.6.4 2020年5月26日</h1><ul><li>修复了水印设置偶尔不生效的问题</li><li>就当无事发生</li></ul><h1>2.6.3 2020年5月22日</h1><p>本次更新：</p><ol><li>新增水印设置选项</li><li>修复了长图无法完全显示的问题</li></ol><h1>2.6.2 2020年5月8日</h1><p>修复部分已知问题，继续优化体验</p><h1>2.6.1 2020年5月6日</h1><p>酷安 iOS 2.6.1</p><ul><li>新增 我界面新增「我的关注」，可查看话题、数码关注列表</li><li>优化 部分页面UI细节</li><li>修复 点击纯表情通知无法跳转的问题</li><li>修复 通知列表提醒数字不消失的问题</li><li>修复 搜索结果页面在某些特殊情况下内容错位的问题</li><li>修复 点击关注按钮时画面略微闪烁的问题</li><li>修复 特殊情况下回复完毕后崩溃的问题</li></ul><h1>2.6 2020年4月22日</h1><p>本次更新内容：</p><ul><li>新增：关注功能，可关注用户、话题、数码</li><li>新增：全新的个人中心</li><li>新增：修改头像功能</li><li>修复：页面无法停止滚动的问题</li><li>修复：部分回复通知无法点击跳转的问题</li></ul><h1>2.5 2020年2月12日</h1><ul><li>新增 收藏功能</li><li>新增 首次启动时用户协议弹窗</li><li>新增 帮助与反馈菜单</li><li>修复 分享图片时闪退的问题</li><li>调整 用户等级标签颜色</li><li>优化 修复部分已知问题，继续优化体验</li></ul><h1>2.4 2019年11月21日</h1><ul><li>新增 黑暗模式</li><li>优化 个人主页显示用户等级</li><li>优化 修复已知问题，继续优化体验。</li></ul><h1>2.3 2019年10月28日</h1><ul><li>新增 发布图文、回答功能</li><li>优化 修复已知问题，继续优化体验。</li></ul><h1>2.2 2019年9月18日</h1><p>新增 编辑动态、回复时，添加表情、图片、话题、@好友等功能。</p><h1>2.1 2019年8月12日</h1><ul><li>新增 搜索功能，支持用户、动态、话题、问答等内容搜索</li><li>新增 首页-话题Tab页面</li><li>新增 简单的个人中心页面</li><li>新增 话题详情页快捷发布动态按钮</li><li>修复 iOS 13下，回复时闪退的问题</li><li>优化 站内网页可以选择第三方浏览器打开</li><li>优化 修复已知问题，继续优化体验</li></ul><h1>2.0 2019年7月29日</h1><ul><li>新增 首页头条、关注、热榜、酷图、问答等Tab页面。</li><li>新增 发布动态功能。</li><li>新增 消息通知功能。</li><li>优化 单击底部首页icon快速刷新页面。</li><li>优化 修复已知问题，继续优化体验。</li></ul><h1>1.0.2 2019年3月12日</h1><ul><li>新增 删除动态功能</li><li>优化 登录界面设计</li><li>优化 修复已知问题，优化体验</li></ul><h1>1.0.1 2019年2月21日</h1><ul><li>修复 一些用户无法发布酷图的问题</li><li>修复 点击分享时闪退的问题</li><li>修复 关注列表的闪动问题</li><li>修复 非中文环境下的显示问题</li><li>优化 支持分享酷图的网页链接</li><li>优化 修复已知问题，继续优化体验</li></ul><h1>1.0 2019年2月15日</h1>]]></content>
     
@@ -353,8 +353,8 @@
     <title>👻酷安APP的冷知识</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89APP%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89APP%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86/</id>
-    <published>2021-06-16T06:56:12.046Z</published>
-    <updated>2021-06-16T06:56:12.046Z</updated>
+    <published>2021-06-16T07:22:36.655Z</published>
+    <updated>2021-06-16T07:22:36.655Z</updated>
     
     <content type="html"><![CDATA[<h1>酷安APP的冷知识</h1><ul><li>提问页面可以展示被折叠的回答，但是点进去无法查看（可以点赞，不能回复）</li><li>通过API可以看到自己及他人当前经验及升级进度及是否到达每日上限，即使在没有经验条的版本</li><li>没有主页的酷友热门动态可通过API查看</li><li>官方以动态数作为新手的参考标准(如需避免触发新手限制，动态应至少保留六条)</li><li>发动态时，视频可以和图片一起发（可能需要一点特殊姿势）</li><li>不能单独发布内容为“0”的动态</li><li>0级用户暂时无法发送私信</li><li>账号注销后，仍保留应用集（album）</li><li>主页动态排序是按编号，而不是按时间</li><li>现存最早的动态(评论)只能通过<a href="https://www.coolapk.com/feed/201187">链接</a>访问，该动态不显示在楼主(酷安小编)的主页，无法收藏，无法转发，无法收录，所以别想通过常规的方法挖该动态</li><li>上古时期存在过BBS</li><li>账号注销后，可能会保留收藏单、应用集等内容</li><li>整理收藏单会掉经验</li><li>短时间内多次发送涉及违规的内容，会被系统作禁言/封号处理！</li><li><s>酷安老用户判定方式：天数基础上经历酷安所有处罚</s></li></ul><p>以下内容来自站内图文 <a href="https://www.coolapk.com/feed/10563914">【酷安百科】酷安的使用注意事项 2019-03-03</a>，作者<a href="http://www.coolapk.com/u/2123335">@BUG测试人员</a></p><ul><li>酷安是一个公司和一个APP，不是你的电子宠物</li><li>酷安不能当夕阳红养老APP，否则老年人会刷机上瘾</li><li>不要使用酷安找妹子，因为没有人知道他们的真实性别</li><li>18岁以下用户请在监护人陪同下使用酷安</li><li>珍爱生命远离女装大佬</li><li>不要在酷安拿手机炫富，因为下一秒你的手机就变成别人的了</li><li>不要在酷安发你自己的照片，因为下一秒就会变成新的表情包</li><li>不可以和酷安结婚，只能做基友</li><li>不可以催促开发人员开发uwp版酷安</li><li>不要给我寄刀片</li><li>酷安小编是人类不是AI智能聊天机器人</li><li>不要生吃土豆，对身体不好</li><li>使用三星S10+发动态可以获得某个人的神奇加成，特别是在说它优点的时候</li><li>不要在酷安进行性感诱惑，因为等待你的不一定是美女或男神</li><li>不要尝试在智能微波炉和智能冰箱上安装酷安，会有不可预料的意外发生</li><li>严禁开车的时候使用酷安发动态，因为交警可能也在用酷安看你发的东西</li><li>不要酒后使用酷安，因为你会不知道自己发了什么乱七八糟的动态而被禁言</li><li>不要说小编长的很丑，请珍爱你的ID</li><li>酷安不缺飞机驾驶员</li><li>使用酷安之后要注意补充营养</li><li>不要往酷安安装包里面植入第三方广告，因为没有用，用户的注意力会被酷安本身吸引</li><li>当你看不了酷安的东西时，请在家炒土豆丝，等你吃完后一切就会恢复正常</li><li>不要尝试对酷安进行DDoS攻击，否则你的服务器会被交易到崩溃</li><li>不要妄想组团去酷安总部偷手机，因为酷安已经与复仇者联盟建立合作关系</li><li>酷安没有三包服务，如果手机被玩坏了请自我反思</li><li>不要尝试把酷安变成知乎，如果知乎被酷安打败刘看山会生气的</li><li>酷安没有语音助手，如果有请尝试从梦里醒过来</li><li>请按照《酷安保养指南》对酷安APP进行保养</li><li>请勿在机器人身上安装酷安，否则你的机器人会对你做奇怪的动作</li><li>不要在幼儿家教电子产品上面安装酷安，否则这个世界又会多一个基友</li><li>酷安无法root你的手机，因为酷安不想成为新一代SuperSU</li><li>不要妄想获得酷安企业版，因为即使开发出来了也不会有老板去订购，只会降低生产力</li><li>不要尝试与小编进行单人PK，因为你一定会后悔</li><li>酷安目前没有建设总部大楼的计划，各位地主请把你们的心思放在降低房价上</li><li>不要在大便的时候使用酷安，否则将会有便秘风险</li><li>不要在半夜使用酷安，否则你在关闭手机后看到太阳出现了</li><li>地球引力对酷安下载应用提速没有帮助</li><li>酷安与三体人没有任何关系，保持中立</li><li>酷安不是法外之地，不要尝试在酷安为所欲为，否则我们免费请你乘坐公安限定版交通工具去旅游</li></ul><p>以下内容整理自站内提问 <a href="https://www.coolapk.com/feed/18038396">酷安APP有哪些隐藏的彩蛋和冷知识？2020-04</a></p><ul><li>V8版本可以点赞和回复提问</li><li>宁脱内裤，不卸小酷!</li><li>敏感词本身也是敏感词</li><li>表情[哈哈]和[呲牙]同与不同</li><li>我-设置-<a href="https://m.coolapk.com/mp/do?c=help">帮助与反馈</a>-检测日志与测试-Debug测试-禁用Xposed模块</li><li>粉丝数可为“-1”，关注数可为“2001”</li><li>删帖会掉经验，可能会掉成0，但不会掉成负值</li><li>点击 我的个人资料 页面 你来到酷安已经xx天了 的文字可以看到具体注册日期</li><li>点击 我-设置-关于 页面 发现科技新生活 的文字可以看到软件安装天数</li><li>酷安iOS没有自己的帮助页</li><li>不能举报官方人员</li><li>180级才能参与#非今日热点#话题</li><li>开屏广告可以关闭</li><li>如果用户行为让小编感到不爽了可能会被封号</li><li>腿编或者电编</li><li>酷安网第一个上架的应用——DMC气象台</li><li>发只许州官放火不许百姓点灯会被删</li></ul>]]></content>
     
@@ -377,8 +377,8 @@
     <title>👻酷安API文档</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/</id>
-    <published>2021-06-16T06:56:12.042Z</published>
-    <updated>2021-06-16T06:56:12.042Z</updated>
+    <published>2021-06-16T07:22:36.651Z</published>
+    <updated>2021-06-16T07:22:36.651Z</updated>
     
     <content type="html"><![CDATA[<h1>索引</h1><details><summary>首页</summary><li><a href=#关注>关注</a></li><li><a href=#头条>头条</a></li><li><a href=#热榜>热榜</a></li><li><a href=#话题>话题</a></li><li><a href=#酷图>酷图</a></li><li><a href=#视频>视频</a></li><li><a href=#问题>问题</a></li><li><a href=#看看号>看看号</a></li><li><a href=#直播>直播</a></li><li><a href=#酷品>酷品</a></li></details><details><summary>数码</summary></details><details><summary>发布</summary></details><details><summary>应用游戏</summary></details><details><summary>我</summary></details><li><a href=#酷安Api获取方法>酷安Api获取方法</a></li><h2 id="头条">头条</h2><p>请求URL:<code>https://api.coolapk.com/v6/main/indexV8 </code><br>请求方法：<code>GET</code></p><h2 id="酷安Api获取方法">酷安Api获取方法</h2><p>简单粗暴–抓包(另外一种,看酷安日志)</p><h3 id="已Root抓包">已Root抓包</h3><p>将抓包软件的CA证书安装为系统证书，如已安装为用户证书：将/data/misc/user/0/cacerts-added/下的证书移至/system/etc/security/cacerts/</p><h3 id="无Root抓包">无Root抓包</h3><p>使用虚拟姬安装可使用Root权限的ROM<br>虚拟姬外部使用抓包软件安装用户证书，将抓包软件的CA证书从外部/data/misc/user/0/cacerts-added/<br>移至虚拟姬内/system/etc/security/cacerts/<br>虚拟姬内部运行酷安，在外部抓取虚拟姬数据</p>]]></content>
     
@@ -402,8 +402,8 @@
     <title>👻酷友绰号-别名大全</title>
     <link href="https://coolapkwiki.js.org/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/"/>
     <id>https://coolapkwiki.js.org/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/</id>
-    <published>2021-06-16T06:56:12.038Z</published>
-    <updated>2021-06-16T06:56:12.038Z</updated>
+    <published>2021-06-16T07:22:36.647Z</published>
+    <updated>2021-06-16T07:22:36.647Z</updated>
     
     <content type="html"><![CDATA[<table><thead><tr><th>昵称</th><th>绰号/别名</th></tr></thead><tbody><tr><td>alexkillers</td><td>aki | 哦编 |酷安吉祥物</td></tr><tr><td>Dr_Tim</td><td>安然姐姐</td></tr><tr><td>SODA_BISCUIT</td><td>苏苏</td></tr><tr><td>阿酷</td><td>语文负分 | (秋名山)车神</td></tr><tr><td>晨钟酱</td><td>涨价(大师|小助手)|钟晨酱</td></tr><tr><td>独角兽HMSUnicorn</td><td>阿独</td></tr><tr><td>梨子</td><td>梨(姐|编)</td></tr><tr><td>陌路离殇SAMA</td><td>陌路</td></tr><tr><td>酷安小编</td><td><s>胡松华</s>|古桦/牛编</td></tr><tr><td>寒歌</td><td>寒鸽</td></tr></tbody></table>]]></content>
     
@@ -435,8 +435,8 @@
     <title>👻粉丝数排行榜</title>
     <link href="https://coolapkwiki.js.org/%E7%B2%89%E4%B8%9D%E6%95%B0%E6%8E%92%E8%A1%8C%E6%A6%9C/"/>
     <id>https://coolapkwiki.js.org/%E7%B2%89%E4%B8%9D%E6%95%B0%E6%8E%92%E8%A1%8C%E6%A6%9C/</id>
-    <published>2021-06-16T06:56:12.034Z</published>
-    <updated>2021-06-16T06:56:12.034Z</updated>
+    <published>2021-06-16T07:22:36.643Z</published>
+    <updated>2021-06-16T07:22:36.643Z</updated>
     
     <content type="html"><![CDATA[<h1>总排行榜</h1><h2 id="查看方法">查看方法</h2><p>在未登录状态下，点击搜索-用户-推荐关注</p><h2 id="排行榜">排行榜</h2><p>截至5月15日，粉丝数前十的用户为：</p><ol><li>酷安小编（75000）</li><li>晨钟酱（62000）</li><li>森林里的小动物（58000）</li><li>星空未来（57000）</li><li>八百标兵（42500）</li><li>yc9559（34230）</li><li>一葉枯舟（39000）</li><li>梨子（33600）</li><li>数码闲聊分站（32000）</li><li>ZivLW（31000）</li></ol><h1>日排行榜</h1><p>每日0时更新/重置</p><h2 id="查看方法-1">查看方法[1]</h2><p>点击主页（头条）-&gt; 玩机大神，其中</p><ul><li>推荐关注：每日涨粉排行</li><li>最受欢迎：每日被回复排行</li><li>今日活跃：每日动态排行</li></ul><h1>参考资料</h1><ol><li><a href="https://www.coolapk.com/feed/18902375">https://www.coolapk.com/feed/18902375</a></li></ol>]]></content>
     
@@ -462,8 +462,8 @@
     <title>👻等级经验计算规则</title>
     <link href="https://coolapkwiki.js.org/%E7%AD%89%E7%BA%A7%E7%BB%8F%E9%AA%8C%E8%AE%A1%E7%AE%97%E8%A7%84%E5%88%99/"/>
     <id>https://coolapkwiki.js.org/%E7%AD%89%E7%BA%A7%E7%BB%8F%E9%AA%8C%E8%AE%A1%E7%AE%97%E8%A7%84%E5%88%99/</id>
-    <published>2021-06-16T06:56:12.030Z</published>
-    <updated>2021-06-16T06:56:12.030Z</updated>
+    <published>2021-06-16T07:22:36.639Z</published>
+    <updated>2021-06-16T07:22:36.639Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.coolapk.com/feed/2020/0421/09/10002_f2b0399e_2646_8265@1063x478.jpeg" alt="头图"><br><a href="https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md">【建议阅读】《提问的智慧》</a><br>以下内容可用于回答如“怎么升级？”、“怎么升级才快啊？”、“怎么能快速升到X级？”等类似提问</p><h1>【必看！】酷安等级经验规则 - 官方版 来自@酷安小秘书</h1><blockquote><p>直达地址（建议收藏这条动态）：<a href="https://www.coolapk.com/feed/18221454?shareKey=N2ExZjNiY2VjZDdmNWU5ZTVhYmU">https://www.coolapk.com/feed/18221454?shareKey=N2ExZjNiY2VjZDdmNWU5ZTVhYmU</a></p></blockquote><h1>补充（以下补充内容仅供参考，请以官方版说明为准！）</h1><h2 id="不同等级升级所需经验">不同等级升级所需经验</h2><p>计算程序©：<a href="https://github.com/Coolapk-Fan/wiki/blob/master/file/%E6%AF%8F%E7%BA%A7%E6%89%80%E9%9C%80EXP%E8%AE%A1%E7%AE%97%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F(C%E8%AF%AD%E8%A8%80).c">每级所需EXP计算演示程序(C语言).c</a></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">Output:</span><br><span class="line">Lv1  起始经验值：300     ，从Lv0  升级至 Lv1  所需经验值：300</span><br><span class="line">Lv2  起始经验值：1000    ，从Lv1  升级至 Lv2  所需经验值：700</span><br><span class="line">Lv3  起始经验值：8000    ，从Lv2  升级至 Lv3  所需经验值：7000</span><br><span class="line">Lv4  起始经验值：27000   ，从Lv3  升级至 Lv4  所需经验值：19000</span><br><span class="line">Lv5  起始经验值：64000   ，从Lv4  升级至 Lv5  所需经验值：37000</span><br><span class="line">Lv6  起始经验值：125000  ，从Lv5  升级至 Lv6  所需经验值：61000</span><br><span class="line">Lv7  起始经验值：216000  ，从Lv6  升级至 Lv7  所需经验值：91000</span><br><span class="line">Lv8  起始经验值：343000  ，从Lv7  升级至 Lv8  所需经验值：127000</span><br><span class="line">Lv9  起始经验值：512000  ，从Lv8  升级至 Lv9  所需经验值：169000</span><br><span class="line">Lv10 起始经验值：729000  ，从Lv9  升级至 Lv10 所需经验值：217000</span><br><span class="line">Lv11 起始经验值：1000000 ，从Lv10 升级至 Lv11 所需经验值：271000</span><br><span class="line">Lv12 起始经验值：1331000 ，从Lv11 升级至 Lv12 所需经验值：331000</span><br><span class="line">Lv13 起始经验值：1728000 ，从Lv12 升级至 Lv13 所需经验值：397000</span><br><span class="line">Lv14 起始经验值：2197000 ，从Lv13 升级至 Lv14 所需经验值：469000</span><br><span class="line">Lv15 起始经验值：2744000 ，从Lv14 升级至 Lv15 所需经验值：547000</span><br><span class="line">……</span><br></pre></td></tr></table></figure><h2 id="不同等级每日经验上限（参考）">不同等级每日经验上限（参考）</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">0级  100</span><br><span class="line">1级  100</span><br><span class="line">2级  200</span><br><span class="line">3级  300</span><br><span class="line">4级  400  </span><br><span class="line">5级  500</span><br><span class="line">6级  700</span><br><span class="line">7级  900</span><br><span class="line">8级  1100</span><br><span class="line">9级  1300</span><br><span class="line">10级 1600  </span><br><span class="line">11级 1700</span><br><span class="line">12级 2000</span><br><span class="line">13级 2200</span><br><span class="line">14级 2400</span><br><span class="line">15级 无数据</span><br><span class="line">……</span><br></pre></td></tr></table></figure><p>注：</p><ol><li>以上数据不包含<a href="http://image.coolapk.com/feed/2020/0421/09/10002_ab951355_2646_8273@954x254.jpeg.m.jpg">“任务项-每日登录”</a>的所获得的10点经验值。每日上限在每日0点重置。</li><li>若当日内因删帖掉经验或掉等级，则在当日内以上内容不适用</li><li>受<a href="http://image.coolapk.com/feed/2020/0421/09/10002_bc04628c_2646_8269@952x672.jpeg.m.jpg">“无单独上限”项目</a>和<a href="http://image.coolapk.com/feed/2020/0421/09/10002_a8434188_2646_8271@954x402.jpeg.m.jpg">各种扣分机制</a>影响，每日上限会存在一定程度浮动</li></ol><h2 id="计算当前升级最短时间">计算当前升级最短时间</h2><ul><li>在线计算 <a href="https://coolapkwiki.js.org/EXP.html">https://coolapkwiki.js.org/EXP.html</a></li><li>安卓客户端<a href="https://wws.lanzous.com/b01nof0nc">https://wws.lanzous.com/b01nof0nc</a><br>安卓app由酷安@酷友2491578（@李长辉Lichanghui）维护</li></ul>]]></content>
     
@@ -483,8 +483,8 @@
     <title>👻梗集(史册，大雾)</title>
     <link href="https://coolapkwiki.js.org/%E6%A2%97%E9%9B%86(%E5%8F%B2%E5%86%8C%EF%BC%8C%E5%A4%A7%E9%9B%BE)/"/>
     <id>https://coolapkwiki.js.org/%E6%A2%97%E9%9B%86(%E5%8F%B2%E5%86%8C%EF%BC%8C%E5%A4%A7%E9%9B%BE)/</id>
-    <published>2021-06-16T06:56:12.026Z</published>
-    <updated>2021-06-16T06:56:12.026Z</updated>
+    <published>2021-06-16T07:22:36.635Z</published>
+    <updated>2021-06-16T07:22:36.635Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>如有侵权或不适，无需联系，请自行删除<br>枪打出头鸟，涉及用户过多则只记录第一位</p></blockquote><hr><blockquote><p>2011</p><blockquote><p>史料来自于 <a href="http://coolapk.com/apk/com.jb.gosms" title="GO短信">GO短信</a> 评论区</p><blockquote><p>05-19 5毛果断干掉，才发现水军很多啊</p></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><p>05-29 MB尼玛五毛党真烦</p></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><p>09-25 五分滚蛋</p></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><p>…（还有很多，可实地考察）</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a></p></blockquote></blockquote></blockquote></blockquote><blockquote><p>2013</p><blockquote><p>01-05 说真的，酷市场的收入是什么。。。 -&gt; 捐精</p></blockquote></blockquote><blockquote><blockquote><p>01-17 强奸母猪的是阿酷, 射僵尸一脸的是梨编, 我就撸撸管子而已</p></blockquote></blockquote><blockquote><blockquote><p>03-24 完全不懂宅男的世界，哥只有撸后的空虚与寂寞</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a></p></blockquote></blockquote></blockquote><blockquote><p>2015</p><blockquote><p>06-26 刚拉shit了 你感觉到没？红牛味儿，倍儿爽</p></blockquote></blockquote><blockquote><blockquote><p>06-28 过几天做个大保健 让你粉嫩一点</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a> @小编的菊花</p></blockquote></blockquote></blockquote><blockquote><p>2016</p><blockquote><p>07-29 酷安程序员聚众看毛片中</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a></p></blockquote></blockquote></blockquote><blockquote><p>2017</p><blockquote><p>01-30 <img src="https://user-images.githubusercontent.com/65519031/86871566-176d5c00-c10d-11ea-9b09-7c80a1fbfc35.PNG" alt=""></p><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a> <a href="http://coolapk.com/u/453544">@丨丨丨丨丨</a></p></blockquote></blockquote></blockquote><blockquote><blockquote><p>03-18 飞机杯开箱</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/97100">@梨子</a></p></blockquote></blockquote></blockquote><blockquote><blockquote><p>2018智力残疾人</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/531994">@pandecheng</a></p></blockquote></blockquote></blockquote><blockquote><p>2019</p><blockquote><p>06-05 这里面好多人发黄图 能出个学生模式吗 -&gt; 请把你看到的黄图发给我看看</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/12202">@酷安小编</a> <a href="http://coolapk.com/u/1410351">@李东来</a></p></blockquote></blockquote></blockquote><blockquote><blockquote><p>09-08 涨价小助手</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/630380">@晨钟酱</a></p></blockquote></blockquote></blockquote><blockquote><p>2020</p><blockquote><p>手绘牛啤</p><blockquote><p>相关用户</p></blockquote></blockquote></blockquote><blockquote><blockquote><p>06-30 15:14 别tm一直折叠帖子或者屏蔽，要不直接告知，行么？</p><blockquote><p>相关用户 <a href="http://coolapk.com/u/1240311">@灿烂的菊花</a></p></blockquote></blockquote></blockquote><hr><p>开始时间暂时未知</p><hr><p>50包邮<br>雷总施法<br>网络华佗/庸医<br>一加动物园<br>热评-&gt;消失的热评-&gt;消失的消失的热评<br>烧火棍<br>Py<br>土豆服务器<br>陋洞<br>数字梗，如233-250<br>夏格艾迪剑/你号没了/下个ID见<br>哦<br>GKD<br>三资锤<br>刷核反应堆<br>按摩棒<br>今天也是援气满满的一天<br>人品不高智商低，慎用安卓智能机<br>上头条的基佬不要扔，沾上润滑液裹上女装，再带上猫耳，来双白丝，戴上铃铛，酷安基佬都忍不住了</p>]]></content>
     
