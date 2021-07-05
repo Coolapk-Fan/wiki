@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>👻�未分类杂项</title>
-      <link href="/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/"/>
-      <url>/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/</url>
+      <title>👻�沙盒页</title>
+      <link href="/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/"/>
+      <url>/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/</url>
       
-        <content type="html"><![CDATA[<h1>酷安土豆专属壁纸</h1><p><a href="https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q">https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q</a></p>]]></content>
+        <content type="html"><![CDATA[<p><strong>该沙盒仅用于Markdown效果预览，可随意编辑</strong></p><p>测试bot</p><h1>H1</h1><h1>H1</h1>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>👻�沙盒页</title>
-      <link href="/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/"/>
-      <url>/%EF%BF%BD%E6%B2%99%E7%9B%92%E9%A1%B5/</url>
+      <title>👻�未分类杂项</title>
+      <link href="/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/"/>
+      <url>/%EF%BF%BD%E6%9C%AA%E5%88%86%E7%B1%BB%E6%9D%82%E9%A1%B9/</url>
       
-        <content type="html"><![CDATA[<p><strong>该沙盒仅用于Markdown效果预览，可随意编辑</strong></p><p>测试bot</p><h1>H1</h1><h1>H1</h1>]]></content>
+        <content type="html"><![CDATA[<h1>酷安土豆专属壁纸</h1><p><a href="https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q">https://www.coolapk.com/picture/10926301?shareKey=YzM5MDkwYThhNDdjNWVkMjdlM2Q</a></p>]]></content>
       
       
       
@@ -43,11 +43,11 @@
     
     
     <entry>
-      <title>👻酷安账号注销方式</title>
-      <link href="/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/"/>
-      <url>/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/</url>
+      <title>👻酷安认证类型</title>
+      <link href="/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/"/>
+      <url>/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/</url>
       
-        <content type="html"><![CDATA[<h2 id="开发者账号-普通用户组成员注销通道">开发者账号/普通用户组成员注销通道</h2><p>直链：<a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></p><p>或在应用内寻找入口，注销流程如下：设置-帮助与反馈-常见问题-如何注销酷安账号-申请注销</p><p>开发者需先进入<a href="https://developer.coolapk.com/">酷安开发者平台</a>下架所有应用，方可进行后续操作</p><blockquote><p>申请注销酷安账号<br>为了保证你的账号安全，申请注销账号时，酷安会对你的账号做以下验证</p></blockquote><blockquote><ol><li>账号安全<br>在15天内，该账号没有修改密码、改绑手机号或邮箱的记录</li></ol></blockquote><blockquote><ol start="2"><li>账号状态<br>若账号处于封禁、禁言等特殊状态则无法注销</li></ol></blockquote><blockquote><ol start="3"><li>账号绑定<br>若账号绑定了手机号与邮箱，则需要您能用绑定手机号或邮箱接收短信或邮件，才可以完成注销</li></ol></blockquote><blockquote><ol start="4"><li>应用上架<br>有应用上架的开发者账号暂无法直接注销，请在酷安下架您的应用才可以正常注销账号</li></ol></blockquote><blockquote><p>我已阅读并同意以上信息<br>下一步<br>退出注销</p></blockquote><p>申请注销操作后会收到短信提醒，内容如下：</p><blockquote><p>【酷安】您的酷安帐号“某某某”刚刚申请了注销操作。 如非本人操作, 请于24小时内登录酷安App恢复账号。</p></blockquote><p>根据以上描述，用户如果在24小时内如若反悔依然可以登陆酷安APP恢复</p><p>管理员有权恢复已注销账号</p>]]></content>
+        <content type="html"><![CDATA[<h1>酷安认证类型</h1><ol><li>个人开发者认证，图标为黄色尖括号(&lt;&gt;) 如 @pandecheng 等</li><li>企业开发者认证，图标为蓝色尖括号(&lt;&gt;)</li><li>酷安官方人员认证，图标为绿色对勾 如 @酷安小编 @梨子 等</li><li>认证大V-个人认证，黄色对勾 如 @数码闲聊分站 @晨钟酱 等</li><li>认证大V-官方账号认证，蓝色对勾 如 @NICEHCK耳机 等</li></ol><p>注：</p><p>4、5列在「首页-玩机大神-认证大V」</p><p>对勾其实是“V”</p><p><img src="https://i.loli.net/2020/05/25/slKekSJj4tfwD6U.png" alt="认证大V.png"></p>]]></content>
       
       
       
@@ -56,11 +56,11 @@
     
     
     <entry>
-      <title>👻酷安认证类型</title>
-      <link href="/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/"/>
-      <url>/%E9%85%B7%E5%AE%89%E8%AE%A4%E8%AF%81%E7%B1%BB%E5%9E%8B/</url>
+      <title>👻酷安账号注销方式</title>
+      <link href="/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/"/>
+      <url>/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/</url>
       
-        <content type="html"><![CDATA[<h1>酷安认证类型</h1><ol><li>个人开发者认证，图标为黄色尖括号(&lt;&gt;) 如 @pandecheng 等</li><li>企业开发者认证，图标为蓝色尖括号(&lt;&gt;)</li><li>酷安官方人员认证，图标为绿色对勾 如 @酷安小编 @梨子 等</li><li>认证大V-个人认证，黄色对勾 如 @数码闲聊分站 @晨钟酱 等</li><li>认证大V-官方账号认证，蓝色对勾 如 @NICEHCK耳机 等</li></ol><p>注：</p><p>4、5列在「首页-玩机大神-认证大V」</p><p>对勾其实是“V”</p><p><img src="https://i.loli.net/2020/05/25/slKekSJj4tfwD6U.png" alt="认证大V.png"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="开发者账号-普通用户组成员注销通道">开发者账号/普通用户组成员注销通道</h2><p>直链：<a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></p><p>或在应用内寻找入口，注销流程如下：设置-帮助与反馈-常见问题-如何注销酷安账号-申请注销</p><p>开发者需先进入<a href="https://developer.coolapk.com/">酷安开发者平台</a>下架所有应用，方可进行后续操作</p><blockquote><p>申请注销酷安账号<br>为了保证你的账号安全，申请注销账号时，酷安会对你的账号做以下验证</p></blockquote><blockquote><ol><li>账号安全<br>在15天内，该账号没有修改密码、改绑手机号或邮箱的记录</li></ol></blockquote><blockquote><ol start="2"><li>账号状态<br>若账号处于封禁、禁言等特殊状态则无法注销</li></ol></blockquote><blockquote><ol start="3"><li>账号绑定<br>若账号绑定了手机号与邮箱，则需要您能用绑定手机号或邮箱接收短信或邮件，才可以完成注销</li></ol></blockquote><blockquote><ol start="4"><li>应用上架<br>有应用上架的开发者账号暂无法直接注销，请在酷安下架您的应用才可以正常注销账号</li></ol></blockquote><blockquote><p>我已阅读并同意以上信息<br>下一步<br>退出注销</p></blockquote><p>申请注销操作后会收到短信提醒，内容如下：</p><blockquote><p>【酷安】您的酷安帐号“某某某”刚刚申请了注销操作。 如非本人操作, 请于24小时内登录酷安App恢复账号。</p></blockquote><p>根据以上描述，用户如果在24小时内如若反悔依然可以登陆酷安APP恢复</p><p>管理员有权恢复已注销账号</p>]]></content>
       
       
       
@@ -199,11 +199,11 @@
     
     
     <entry>
-      <title>👻酷友绰号-别名大全</title>
-      <link href="/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/"/>
-      <url>/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/</url>
+      <title>👻酷安API文档</title>
+      <link href="/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/"/>
+      <url>/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>昵称</th><th>绰号/别名</th></tr></thead><tbody><tr><td>alexkillers</td><td>aki | 哦编 |酷安吉祥物</td></tr><tr><td>Dr_Tim</td><td>安然姐姐</td></tr><tr><td>SODA_BISCUIT</td><td>苏苏</td></tr><tr><td>阿酷</td><td>语文负分 | (秋名山)车神</td></tr><tr><td>晨钟酱</td><td>涨价(大师|小助手)|钟晨酱</td></tr><tr><td>独角兽HMSUnicorn</td><td>阿独</td></tr><tr><td>梨子</td><td>梨(姐|编)</td></tr><tr><td>陌路离殇SAMA</td><td>陌路</td></tr><tr><td>酷安小编</td><td><s>胡松华</s>|古桦/牛编</td></tr><tr><td>寒歌</td><td>寒鸽</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h1>索引</h1><details><summary>首页</summary><li><a href=#关注>关注</a></li><li><a href=#头条>头条</a></li><li><a href=#热榜>热榜</a></li><li><a href=#话题>话题</a></li><li><a href=#酷图>酷图</a></li><li><a href=#视频>视频</a></li><li><a href=#问题>问题</a></li><li><a href=#看看号>看看号</a></li><li><a href=#直播>直播</a></li><li><a href=#酷品>酷品</a></li></details><details><summary>数码</summary></details><details><summary>发布</summary></details><details><summary>应用游戏</summary></details><details><summary>我</summary></details><li><a href=#酷安Api获取方法>酷安Api获取方法</a></li><h2 id="头条">头条</h2><p>请求URL:<code>https://api.coolapk.com/v6/main/indexV8 </code><br>请求方法：<code>GET</code></p><h2 id="酷安Api获取方法">酷安Api获取方法</h2><p>简单粗暴–抓包(另外一种,看酷安日志)</p><h3 id="已Root抓包">已Root抓包</h3><p>将抓包软件的CA证书安装为系统证书，如已安装为用户证书：将/data/misc/user/0/cacerts-added/下的证书移至/system/etc/security/cacerts/</p><h3 id="无Root抓包">无Root抓包</h3><p>使用虚拟姬安装可使用Root权限的ROM<br>虚拟姬外部使用抓包软件安装用户证书，将抓包软件的CA证书从外部/data/misc/user/0/cacerts-added/<br>移至虚拟姬内/system/etc/security/cacerts/<br>虚拟姬内部运行酷安，在外部抓取虚拟姬数据</p>]]></content>
       
       
       
@@ -212,11 +212,11 @@
     
     
     <entry>
-      <title>👻酷安API文档</title>
-      <link href="/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/"/>
-      <url>/%E9%85%B7%E5%AE%89API%E6%96%87%E6%A1%A3/</url>
+      <title>👻酷友绰号-别名大全</title>
+      <link href="/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/"/>
+      <url>/%E9%85%B7%E5%8F%8B%E7%BB%B0%E5%8F%B7-%E5%88%AB%E5%90%8D%E5%A4%A7%E5%85%A8/</url>
       
-        <content type="html"><![CDATA[<h1>索引</h1><details><summary>首页</summary><li><a href=#关注>关注</a></li><li><a href=#头条>头条</a></li><li><a href=#热榜>热榜</a></li><li><a href=#话题>话题</a></li><li><a href=#酷图>酷图</a></li><li><a href=#视频>视频</a></li><li><a href=#问题>问题</a></li><li><a href=#看看号>看看号</a></li><li><a href=#直播>直播</a></li><li><a href=#酷品>酷品</a></li></details><details><summary>数码</summary></details><details><summary>发布</summary></details><details><summary>应用游戏</summary></details><details><summary>我</summary></details><li><a href=#酷安Api获取方法>酷安Api获取方法</a></li><h2 id="头条">头条</h2><p>请求URL:<code>https://api.coolapk.com/v6/main/indexV8 </code><br>请求方法：<code>GET</code></p><h2 id="酷安Api获取方法">酷安Api获取方法</h2><p>简单粗暴–抓包(另外一种,看酷安日志)</p><h3 id="已Root抓包">已Root抓包</h3><p>将抓包软件的CA证书安装为系统证书，如已安装为用户证书：将/data/misc/user/0/cacerts-added/下的证书移至/system/etc/security/cacerts/</p><h3 id="无Root抓包">无Root抓包</h3><p>使用虚拟姬安装可使用Root权限的ROM<br>虚拟姬外部使用抓包软件安装用户证书，将抓包软件的CA证书从外部/data/misc/user/0/cacerts-added/<br>移至虚拟姬内/system/etc/security/cacerts/<br>虚拟姬内部运行酷安，在外部抓取虚拟姬数据</p>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>昵称</th><th>绰号/别名</th></tr></thead><tbody><tr><td>alexkillers</td><td>aki | 哦编 |酷安吉祥物</td></tr><tr><td>Dr_Tim</td><td>安然姐姐</td></tr><tr><td>SODA_BISCUIT</td><td>苏苏</td></tr><tr><td>阿酷</td><td>语文负分 | (秋名山)车神</td></tr><tr><td>晨钟酱</td><td>涨价(大师|小助手)|钟晨酱</td></tr><tr><td>独角兽HMSUnicorn</td><td>阿独</td></tr><tr><td>梨子</td><td>梨(姐|编)</td></tr><tr><td>陌路离殇SAMA</td><td>陌路</td></tr><tr><td>酷安小编</td><td><s>胡松华</s>|古桦/牛编</td></tr><tr><td>寒歌</td><td>寒鸽</td></tr></tbody></table>]]></content>
       
       
       
