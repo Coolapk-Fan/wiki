@@ -30,11 +30,11 @@
     
     
     <entry>
-      <title>👻酷安账号注销方式</title>
-      <link href="/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/"/>
-      <url>/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/</url>
+      <title>👻酷安页面链接</title>
+      <link href="/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/"/>
+      <url>/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/</url>
       
-        <content type="html"><![CDATA[<h2 id="开发者账号-普通用户组成员注销通道">开发者账号/普通用户组成员注销通道</h2><p>直链：<a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></p><p>或在应用内寻找入口，注销流程如下：设置-帮助与反馈-常见问题-如何注销酷安账号-申请注销</p><p>开发者需先进入<a href="https://developer.coolapk.com/">酷安开发者平台</a>下架所有应用，方可进行后续操作</p><blockquote><p>申请注销酷安账号<br>为了保证你的账号安全，申请注销账号时，酷安会对你的账号做以下验证</p></blockquote><blockquote><ol><li>账号安全<br>在15天内，该账号没有修改密码、改绑手机号或邮箱的记录</li></ol></blockquote><blockquote><ol start="2"><li>账号状态<br>若账号处于封禁、禁言等特殊状态则无法注销</li></ol></blockquote><blockquote><ol start="3"><li>账号绑定<br>若账号绑定了手机号与邮箱，则需要您能用绑定手机号或邮箱接收短信或邮件，才可以完成注销</li></ol></blockquote><blockquote><ol start="4"><li>应用上架<br>有应用上架的开发者账号暂无法直接注销，请在酷安下架您的应用才可以正常注销账号</li></ol></blockquote><blockquote><p>我已阅读并同意以上信息<br>下一步<br>退出注销</p></blockquote><p>申请注销操作后会收到短信提醒，内容如下：</p><blockquote><p>【酷安】您的酷安帐号“某某某”刚刚申请了注销操作。 如非本人操作, 请于24小时内登录酷安App恢复账号。</p></blockquote><p>根据以上描述，用户如果在24小时内如若反悔依然可以登陆酷安APP恢复</p><p>管理员有权恢复已注销账号</p>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>页面</th><th>链接</th></tr></thead><tbody><tr><td>用户</td><td><a href="http://coolapk.com/u/%7Buid%5C%7Cusername%7D">http://coolapk.com/u/{uid\|username}</a></td></tr><tr><td>应用</td><td><a href="https://coolapk.com/apk/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/apk/{包名}</a></td></tr><tr><td>游戏</td><td><a href="https://coolapk.com/game/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/game/{包名}</a></td></tr><tr><td>发现</td><td><a href="https://coolapk.com/faxian/%7Bid%7D">https://coolapk.com/faxian/{id}</a></td></tr><tr><td>动态<br>评论<br>图文<br>二手交易<br>提问<br>回答<br>观点</td><td><a href="https://coolapk.com/feed/%7Bid%7D">https://coolapk.com/feed/{id}</a></td></tr><tr><td>酷图</td><td><a href="https://coolapk.com/picture/%7Bid%7D">https://coolapk.com/picture/{id}</a></td></tr><tr><td>看看号</td><td><a href="https://coolapk.com/dyh/%7Bid%7D">https://coolapk.com/dyh/{id}</a></td></tr><tr><td>收藏单</td><td><a href="https://coolapk.com/collection/%7Bid%7D">https://coolapk.com/collection/{id}</a></td></tr><tr><td>应用集</td><td><a href="https://coolapk.com/album/%7Bid%7D">https://coolapk.com/album/{id}</a></td></tr><tr><td>话题</td><td><a href="https://coolapk.com/t/%7B%E8%AF%9D%E9%A2%98%E5%90%8D%E7%A7%B0%7D">https://coolapk.com/t/{话题名称}</a></td></tr><tr><td>注销</td><td><a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></td></tr><tr><td>文章</td><td>待补充</td></tr></tbody></table>]]></content>
       
       
       
@@ -43,11 +43,11 @@
     
     
     <entry>
-      <title>👻酷安页面链接</title>
-      <link href="/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/"/>
-      <url>/%E9%85%B7%E5%AE%89%E9%A1%B5%E9%9D%A2%E9%93%BE%E6%8E%A5/</url>
+      <title>👻酷安账号注销方式</title>
+      <link href="/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/"/>
+      <url>/%E9%85%B7%E5%AE%89%E8%B4%A6%E5%8F%B7%E6%B3%A8%E9%94%80%E6%96%B9%E5%BC%8F/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th>页面</th><th>链接</th></tr></thead><tbody><tr><td>用户</td><td><a href="http://coolapk.com/u/%7Buid%5C%7Cusername%7D">http://coolapk.com/u/{uid\|username}</a></td></tr><tr><td>应用</td><td><a href="https://coolapk.com/apk/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/apk/{包名}</a></td></tr><tr><td>游戏</td><td><a href="https://coolapk.com/game/%7B%E5%8C%85%E5%90%8D%7D">https://coolapk.com/game/{包名}</a></td></tr><tr><td>发现</td><td><a href="https://coolapk.com/faxian/%7Bid%7D">https://coolapk.com/faxian/{id}</a></td></tr><tr><td>动态<br>评论<br>图文<br>二手交易<br>提问<br>回答<br>观点</td><td><a href="https://coolapk.com/feed/%7Bid%7D">https://coolapk.com/feed/{id}</a></td></tr><tr><td>酷图</td><td><a href="https://coolapk.com/picture/%7Bid%7D">https://coolapk.com/picture/{id}</a></td></tr><tr><td>看看号</td><td><a href="https://coolapk.com/dyh/%7Bid%7D">https://coolapk.com/dyh/{id}</a></td></tr><tr><td>收藏单</td><td><a href="https://coolapk.com/collection/%7Bid%7D">https://coolapk.com/collection/{id}</a></td></tr><tr><td>应用集</td><td><a href="https://coolapk.com/album/%7Bid%7D">https://coolapk.com/album/{id}</a></td></tr><tr><td>话题</td><td><a href="https://coolapk.com/t/%7B%E8%AF%9D%E9%A2%98%E5%90%8D%E7%A7%B0%7D">https://coolapk.com/t/{话题名称}</a></td></tr><tr><td>注销</td><td><a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></td></tr><tr><td>文章</td><td>待补充</td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h2 id="开发者账号-普通用户组成员注销通道">开发者账号/普通用户组成员注销通道</h2><p>直链：<a href="https://account.coolapk.com/account/accountCancel">https://account.coolapk.com/account/accountCancel</a></p><p>或在应用内寻找入口，注销流程如下：设置-帮助与反馈-常见问题-如何注销酷安账号-申请注销</p><p>开发者需先进入<a href="https://developer.coolapk.com/">酷安开发者平台</a>下架所有应用，方可进行后续操作</p><blockquote><p>申请注销酷安账号<br>为了保证你的账号安全，申请注销账号时，酷安会对你的账号做以下验证</p></blockquote><blockquote><ol><li>账号安全<br>在15天内，该账号没有修改密码、改绑手机号或邮箱的记录</li></ol></blockquote><blockquote><ol start="2"><li>账号状态<br>若账号处于封禁、禁言等特殊状态则无法注销</li></ol></blockquote><blockquote><ol start="3"><li>账号绑定<br>若账号绑定了手机号与邮箱，则需要您能用绑定手机号或邮箱接收短信或邮件，才可以完成注销</li></ol></blockquote><blockquote><ol start="4"><li>应用上架<br>有应用上架的开发者账号暂无法直接注销，请在酷安下架您的应用才可以正常注销账号</li></ol></blockquote><blockquote><p>我已阅读并同意以上信息<br>下一步<br>退出注销</p></blockquote><p>申请注销操作后会收到短信提醒，内容如下：</p><blockquote><p>【酷安】您的酷安帐号“某某某”刚刚申请了注销操作。 如非本人操作, 请于24小时内登录酷安App恢复账号。</p></blockquote><p>根据以上描述，用户如果在24小时内如若反悔依然可以登陆酷安APP恢复</p><p>管理员有权恢复已注销账号</p>]]></content>
       
       
       
@@ -108,19 +108,6 @@
     
     
     <entry>
-      <title>👻酷安的「别称」</title>
-      <link href="/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/"/>
-      <url>/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/</url>
-      
-        <content type="html"><![CDATA[<h2 id="基安">基安</h2><p>酷安男性用户居多，且是“搞机论坛”，用户间互称“酷安基（机）佬”，故称酷安为“基安”。<s>（然而酷安真的可以“搞基” [1]）</s></p><h2 id="米安">米安</h2><p>小米用户在酷安用户中占比最大[2]。</p><h2 id="屑安-你安">屑安/你安</h2><p>“屑”源自日语，是“人渣、垃圾”的意思。该别称可能不友善。</p><h2 id="Cookapk-Cook安">Cookapk/Cook安</h2><p>酷安有很多关于烹饪（Cook）的教程[3]。</p><h2 id="豆安">豆安</h2><p>酷安服务器被称作“土豆服务器”[4]。</p><h2 id="折叠安-夹安">折叠安/夹安</h2><h2 id="其他别称">其他别称</h2><ul><li>Coolapk：酷安英文名</li><li>酷市场：酷安早期名称</li><li>宽：连读“酷安”</li></ul><h2 id="参考资料">参考资料</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[1]: 酷安话题“#Blued#”</span><br><span class="line">[2]: 酷安官方人员统计。见酷安话题“#酷安机型TOP榜#”</span><br><span class="line">[3]: 酷安话题“#Cookapk#”</span><br><span class="line">[4]: 阿酷：今天早上的豆安服务器真是一言难尽，不说了，我去洗个脸，早饭还没吃呢。</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>👻酷安社区管理规范</title>
       <link href="/%E9%85%B7%E5%AE%89%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83/"/>
       <url>/%E9%85%B7%E5%AE%89%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83/</url>
@@ -139,6 +126,19 @@
       <url>/%E9%85%B7%E5%AE%89%E6%8A%98%E5%8F%A0%E5%85%B3%E9%94%AE%E8%AF%8D%E5%88%97%E8%A1%A8/</url>
       
         <content type="html"><![CDATA[<p>别想了</p><p>没有！</p><p>不要试探折叠机制！</p><p>不要尝试探究折叠机制！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>👻酷安的「别称」</title>
+      <link href="/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/"/>
+      <url>/%E9%85%B7%E5%AE%89%E7%9A%84%E3%80%8C%E5%88%AB%E7%A7%B0%E3%80%8D/</url>
+      
+        <content type="html"><![CDATA[<h2 id="基安">基安</h2><p>酷安男性用户居多，且是“搞机论坛”，用户间互称“酷安基（机）佬”，故称酷安为“基安”。<s>（然而酷安真的可以“搞基” [1]）</s></p><h2 id="米安">米安</h2><p>小米用户在酷安用户中占比最大[2]。</p><h2 id="屑安-你安">屑安/你安</h2><p>“屑”源自日语，是“人渣、垃圾”的意思。该别称可能不友善。</p><h2 id="Cookapk-Cook安">Cookapk/Cook安</h2><p>酷安有很多关于烹饪（Cook）的教程[3]。</p><h2 id="豆安">豆安</h2><p>酷安服务器被称作“土豆服务器”[4]。</p><h2 id="折叠安-夹安">折叠安/夹安</h2><h2 id="其他别称">其他别称</h2><ul><li>Coolapk：酷安英文名</li><li>酷市场：酷安早期名称</li><li>宽：连读“酷安”</li></ul><h2 id="参考资料">参考资料</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[1]: 酷安话题“#Blued#”</span><br><span class="line">[2]: 酷安官方人员统计。见酷安话题“#酷安机型TOP榜#”</span><br><span class="line">[3]: 酷安话题“#Cookapk#”</span><br><span class="line">[4]: 阿酷：今天早上的豆安服务器真是一言难尽，不说了，我去洗个脸，早饭还没吃呢。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
@@ -316,19 +316,6 @@
     
     
     <entry>
-      <title>👻安卓beta部分更新日志</title>
-      <link href="/%E5%AE%89%E5%8D%93beta%E9%83%A8%E5%88%86%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
-      <url>/%E5%AE%89%E5%8D%93beta%E9%83%A8%E5%88%86%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
-      
-        <content type="html"><![CDATA[<p>…</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>👻常见问题解答-(FAQ)</title>
       <link href="/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-(FAQ)/"/>
       <url>/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-(FAQ)/</url>
@@ -347,6 +334,19 @@
       <url>/%E5%8F%82%E4%B8%8E%E8%AF%9D%E9%A2%98%E8%AE%A8%E8%AE%BA%E7%AD%89%E7%BA%A7%E8%A6%81%E6%B1%82&amp;%E9%99%90%E5%88%B6/</url>
       
         <content type="html"><![CDATA[<p>注册满三天才可参加#话题#讨论</p><h1>等级要求</h1><h3 id="1级">1级</h3><p>酷安夜话</p><h3 id="2级">2级</h3><ul><li>二手交易</li><li>qq</li></ul><h3 id="3级">3级</h3><ul><li>我的流量套餐</li></ul><h3 id="4级">4级</h3><ul><li>今日的热点</li><li>五等分の沙雕</li><li>沙雕乐园</li><li>今日沙雕图</li></ul><h3 id="5级">5级</h3><ul><li>今日热点lite</li><li>限免折扣</li></ul><h3 id="6级">6级</h3><ul><li>今日热点</li><li>今日热点plus</li></ul><h3 id="20级">20级</h3><p>今日热点pro</p><h3 id="50级">50级</h3><p>今日非热点</p><h3 id="100级">100级</h3><p>今日热点2</p><h3 id="180级">180级</h3><p>非今日热点</p><h1>添加后不能再添加其他话题的话题</h1><ul><li>酷安夜话</li><li>沙雕乐园</li><li>二手交易</li></ul><h1>禁止访问的话题</h1><ul><li>#ԛnɥuɹod#</li><li>#搞机助手#</li><li>#搞机助手下架#</li><li>#FeedMe#</li><li>#陌路酱的戒ser时刻#</li><li>#习习向上#</li><li>#欢太商城#</li><li>#油管#</li><li>油管下载</li><li>#送给最好的TA#</li><li>丰富黑名单</li><li>丰富黑名单2</li><li>黑域手撕绿色守护</li><li>云流量</li><li>疑似黑号的酷友</li><li>酷安黑号</li><li>疑似被黑号的酷友</li><li>酷安高速公路</li><li>青年大学习</li><li>艹</li><li>脱氧核糖</li><li>挂人</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>👻安卓beta部分更新日志</title>
+      <link href="/%E5%AE%89%E5%8D%93beta%E9%83%A8%E5%88%86%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+      <url>/%E5%AE%89%E5%8D%93beta%E9%83%A8%E5%88%86%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<p>…</p>]]></content>
       
       
       
