@@ -1,7 +1,7 @@
-![头图封面](https://i.loli.net/2020/07/05/s5WwakEIteGFR9K.png)
-
 # Welcome to the 酷安wiki
 - 一个**人人可编辑**的酷安百科全书
 - **点击右侧或底部（手机版式）的`Show N more pages…`查看所有页面！**
 - **内容存在时效性**
 - 快来[参与贡献](https://github.com/Coolapk-Fan/wiki/wiki#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE)吧！
+
+![头图封面](https://i.loli.net/2020/07/05/s5WwakEIteGFR9K.png)
